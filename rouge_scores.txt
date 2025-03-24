@@ -1,0 +1,3360 @@
+QA Pair 1:
+ROUGE-1: Score(precision=1.0, recall=0.2608695652173913, fmeasure=0.41379310344827586)
+ROUGE-2: Score(precision=1.0, recall=0.22727272727272727, fmeasure=0.37037037037037035)
+ROUGE-L: Score(precision=1.0, recall=0.2608695652173913, fmeasure=0.41379310344827586)
+----------------------------------------
+QA Pair 2:
+ROUGE-1: Score(precision=1.0, recall=0.07692307692307693, fmeasure=0.14285714285714288)
+ROUGE-2: Score(precision=1.0, recall=0.05263157894736842, fmeasure=0.1)
+ROUGE-L: Score(precision=1.0, recall=0.07692307692307693, fmeasure=0.14285714285714288)
+----------------------------------------
+QA Pair 3:
+ROUGE-1: Score(precision=1.0, recall=0.2619047619047619, fmeasure=0.41509433962264153)
+ROUGE-2: Score(precision=0.9, recall=0.21951219512195122, fmeasure=0.3529411764705882)
+ROUGE-L: Score(precision=1.0, recall=0.2619047619047619, fmeasure=0.41509433962264153)
+----------------------------------------
+QA Pair 4:
+ROUGE-1: Score(precision=1.0, recall=0.1276595744680851, fmeasure=0.22641509433962262)
+ROUGE-2: Score(precision=0.9565217391304348, recall=0.11764705882352941, fmeasure=0.20952380952380953)
+ROUGE-L: Score(precision=1.0, recall=0.1276595744680851, fmeasure=0.22641509433962262)
+----------------------------------------
+QA Pair 5:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 6:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 7:
+ROUGE-1: Score(precision=1.0, recall=0.2857142857142857, fmeasure=0.4444444444444445)
+ROUGE-2: Score(precision=1.0, recall=0.2682926829268293, fmeasure=0.4230769230769231)
+ROUGE-L: Score(precision=1.0, recall=0.2857142857142857, fmeasure=0.4444444444444445)
+----------------------------------------
+QA Pair 8:
+ROUGE-1: Score(precision=1.0, recall=0.4603174603174603, fmeasure=0.6304347826086957)
+ROUGE-2: Score(precision=1.0, recall=0.45161290322580644, fmeasure=0.6222222222222222)
+ROUGE-L: Score(precision=1.0, recall=0.4603174603174603, fmeasure=0.6304347826086957)
+----------------------------------------
+QA Pair 9:
+ROUGE-1: Score(precision=1.0, recall=0.13333333333333333, fmeasure=0.23529411764705882)
+ROUGE-2: Score(precision=1.0, recall=0.11864406779661017, fmeasure=0.21212121212121215)
+ROUGE-L: Score(precision=1.0, recall=0.13333333333333333, fmeasure=0.23529411764705882)
+----------------------------------------
+QA Pair 10:
+ROUGE-1: Score(precision=0.9375, recall=0.08875739644970414, fmeasure=0.16216216216216214)
+ROUGE-2: Score(precision=0.8666666666666667, recall=0.07738095238095238, fmeasure=0.14207650273224043)
+ROUGE-L: Score(precision=0.9375, recall=0.08875739644970414, fmeasure=0.16216216216216214)
+----------------------------------------
+QA Pair 11:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 12:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 13:
+ROUGE-1: Score(precision=1.0, recall=0.23809523809523808, fmeasure=0.3846153846153846)
+ROUGE-2: Score(precision=1.0, recall=0.2, fmeasure=0.33333333333333337)
+ROUGE-L: Score(precision=1.0, recall=0.23809523809523808, fmeasure=0.3846153846153846)
+----------------------------------------
+QA Pair 14:
+ROUGE-1: Score(precision=1.0, recall=0.30952380952380953, fmeasure=0.4727272727272727)
+ROUGE-2: Score(precision=1.0, recall=0.2926829268292683, fmeasure=0.45283018867924524)
+ROUGE-L: Score(precision=1.0, recall=0.30952380952380953, fmeasure=0.4727272727272727)
+----------------------------------------
+QA Pair 15:
+ROUGE-1: Score(precision=1.0, recall=0.5357142857142857, fmeasure=0.6976744186046512)
+ROUGE-2: Score(precision=1.0, recall=0.5185185185185185, fmeasure=0.6829268292682926)
+ROUGE-L: Score(precision=1.0, recall=0.5357142857142857, fmeasure=0.6976744186046512)
+----------------------------------------
+QA Pair 16:
+ROUGE-1: Score(precision=1.0, recall=0.04081632653061224, fmeasure=0.07843137254901959)
+ROUGE-2: Score(precision=0.9090909090909091, recall=0.034129692832764506, fmeasure=0.06578947368421054)
+ROUGE-L: Score(precision=1.0, recall=0.04081632653061224, fmeasure=0.07843137254901959)
+----------------------------------------
+QA Pair 17:
+ROUGE-1: Score(precision=1.0, recall=0.045454545454545456, fmeasure=0.08695652173913045)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=0.045454545454545456, fmeasure=0.08695652173913045)
+----------------------------------------
+QA Pair 18:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 19:
+ROUGE-1: Score(precision=1.0, recall=0.6153846153846154, fmeasure=0.761904761904762)
+ROUGE-2: Score(precision=1.0, recall=0.6, fmeasure=0.7499999999999999)
+ROUGE-L: Score(precision=1.0, recall=0.6153846153846154, fmeasure=0.761904761904762)
+----------------------------------------
+QA Pair 20:
+ROUGE-1: Score(precision=1.0, recall=0.2222222222222222, fmeasure=0.3636363636363636)
+ROUGE-2: Score(precision=1.0, recall=0.19230769230769232, fmeasure=0.32258064516129037)
+ROUGE-L: Score(precision=1.0, recall=0.2222222222222222, fmeasure=0.3636363636363636)
+----------------------------------------
+QA Pair 21:
+ROUGE-1: Score(precision=1.0, recall=0.6944444444444444, fmeasure=0.819672131147541)
+ROUGE-2: Score(precision=1.0, recall=0.6857142857142857, fmeasure=0.8135593220338984)
+ROUGE-L: Score(precision=1.0, recall=0.6944444444444444, fmeasure=0.819672131147541)
+----------------------------------------
+QA Pair 22:
+ROUGE-1: Score(precision=1.0, recall=0.16071428571428573, fmeasure=0.27692307692307694)
+ROUGE-2: Score(precision=0.625, recall=0.09090909090909091, fmeasure=0.15873015873015875)
+ROUGE-L: Score(precision=0.8888888888888888, recall=0.14285714285714285, fmeasure=0.24615384615384617)
+----------------------------------------
+QA Pair 23:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 24:
+ROUGE-1: Score(precision=1.0, recall=0.034482758620689655, fmeasure=0.06666666666666667)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=0.034482758620689655, fmeasure=0.06666666666666667)
+----------------------------------------
+QA Pair 25:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 26:
+ROUGE-1: Score(precision=1.0, recall=0.06349206349206349, fmeasure=0.11940298507462686)
+ROUGE-2: Score(precision=1.0, recall=0.04838709677419355, fmeasure=0.09230769230769231)
+ROUGE-L: Score(precision=1.0, recall=0.06349206349206349, fmeasure=0.11940298507462686)
+----------------------------------------
+QA Pair 27:
+ROUGE-1: Score(precision=1.0, recall=0.2318840579710145, fmeasure=0.37647058823529417)
+ROUGE-2: Score(precision=1.0, recall=0.22627737226277372, fmeasure=0.369047619047619)
+ROUGE-L: Score(precision=1.0, recall=0.2318840579710145, fmeasure=0.37647058823529417)
+----------------------------------------
+QA Pair 28:
+ROUGE-1: Score(precision=0.8888888888888888, recall=0.11764705882352941, fmeasure=0.20779220779220778)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0.5555555555555556, recall=0.07352941176470588, fmeasure=0.12987012987012989)
+----------------------------------------
+QA Pair 29:
+ROUGE-1: Score(precision=1.0, recall=0.025423728813559324, fmeasure=0.04958677685950414)
+ROUGE-2: Score(precision=1.0, recall=0.017094017094017096, fmeasure=0.033613445378151266)
+ROUGE-L: Score(precision=1.0, recall=0.025423728813559324, fmeasure=0.04958677685950414)
+----------------------------------------
+QA Pair 30:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 31:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 32:
+ROUGE-1: Score(precision=1.0, recall=0.25806451612903225, fmeasure=0.41025641025641024)
+ROUGE-2: Score(precision=1.0, recall=0.23333333333333334, fmeasure=0.37837837837837834)
+ROUGE-L: Score(precision=1.0, recall=0.25806451612903225, fmeasure=0.41025641025641024)
+----------------------------------------
+QA Pair 33:
+ROUGE-1: Score(precision=1.0, recall=0.03428571428571429, fmeasure=0.06629834254143648)
+ROUGE-2: Score(precision=1.0, recall=0.03244274809160305, fmeasure=0.06284658040665435)
+ROUGE-L: Score(precision=1.0, recall=0.03428571428571429, fmeasure=0.06629834254143648)
+----------------------------------------
+QA Pair 34:
+ROUGE-1: Score(precision=1.0, recall=0.11764705882352941, fmeasure=0.21052631578947367)
+ROUGE-2: Score(precision=1.0, recall=0.09090909090909091, fmeasure=0.16666666666666669)
+ROUGE-L: Score(precision=1.0, recall=0.11764705882352941, fmeasure=0.21052631578947367)
+----------------------------------------
+QA Pair 35:
+ROUGE-1: Score(precision=1.0, recall=0.1301775147928994, fmeasure=0.23036649214659685)
+ROUGE-2: Score(precision=0.9523809523809523, recall=0.11904761904761904, fmeasure=0.21164021164021163)
+ROUGE-L: Score(precision=1.0, recall=0.1301775147928994, fmeasure=0.23036649214659685)
+----------------------------------------
+QA Pair 36:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 37:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 38:
+ROUGE-1: Score(precision=1.0, recall=0.525, fmeasure=0.6885245901639345)
+ROUGE-2: Score(precision=1.0, recall=0.5128205128205128, fmeasure=0.6779661016949152)
+ROUGE-L: Score(precision=1.0, recall=0.525, fmeasure=0.6885245901639345)
+----------------------------------------
+QA Pair 39:
+ROUGE-1: Score(precision=1.0, recall=0.44086021505376344, fmeasure=0.6119402985074627)
+ROUGE-2: Score(precision=1.0, recall=0.43478260869565216, fmeasure=0.6060606060606061)
+ROUGE-L: Score(precision=1.0, recall=0.44086021505376344, fmeasure=0.6119402985074627)
+----------------------------------------
+QA Pair 40:
+ROUGE-1: Score(precision=1.0, recall=0.4883720930232558, fmeasure=0.65625)
+ROUGE-2: Score(precision=0.95, recall=0.4523809523809524, fmeasure=0.6129032258064516)
+ROUGE-L: Score(precision=1.0, recall=0.4883720930232558, fmeasure=0.65625)
+----------------------------------------
+QA Pair 41:
+ROUGE-1: Score(precision=1.0, recall=0.1518987341772152, fmeasure=0.26373626373626374)
+ROUGE-2: Score(precision=0.9714285714285714, recall=0.1440677966101695, fmeasure=0.2509225092250923)
+ROUGE-L: Score(precision=1.0, recall=0.1518987341772152, fmeasure=0.26373626373626374)
+----------------------------------------
+QA Pair 42:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 43:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 44:
+ROUGE-1: Score(precision=1.0, recall=0.3125, fmeasure=0.47619047619047616)
+ROUGE-2: Score(precision=1.0, recall=0.26666666666666666, fmeasure=0.4210526315789474)
+ROUGE-L: Score(precision=1.0, recall=0.3125, fmeasure=0.47619047619047616)
+----------------------------------------
+QA Pair 45:
+ROUGE-1: Score(precision=1.0, recall=0.16470588235294117, fmeasure=0.2828282828282828)
+ROUGE-2: Score(precision=1.0, recall=0.15476190476190477, fmeasure=0.2680412371134021)
+ROUGE-L: Score(precision=1.0, recall=0.16470588235294117, fmeasure=0.2828282828282828)
+----------------------------------------
+QA Pair 46:
+ROUGE-1: Score(precision=1.0, recall=0.2, fmeasure=0.33333333333333337)
+ROUGE-2: Score(precision=1.0, recall=0.15789473684210525, fmeasure=0.2727272727272727)
+ROUGE-L: Score(precision=1.0, recall=0.2, fmeasure=0.33333333333333337)
+----------------------------------------
+QA Pair 47:
+ROUGE-1: Score(precision=1.0, recall=0.30434782608695654, fmeasure=0.4666666666666667)
+ROUGE-2: Score(precision=1.0, recall=0.29411764705882354, fmeasure=0.45454545454545453)
+ROUGE-L: Score(precision=1.0, recall=0.30434782608695654, fmeasure=0.4666666666666667)
+----------------------------------------
+QA Pair 48:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 49:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 50:
+ROUGE-1: Score(precision=1.0, recall=0.1935483870967742, fmeasure=0.3243243243243243)
+ROUGE-2: Score(precision=1.0, recall=0.16666666666666666, fmeasure=0.2857142857142857)
+ROUGE-L: Score(precision=1.0, recall=0.1935483870967742, fmeasure=0.3243243243243243)
+----------------------------------------
+QA Pair 51:
+ROUGE-1: Score(precision=1.0, recall=0.02459016393442623, fmeasure=0.048)
+ROUGE-2: Score(precision=0.625, recall=0.0136986301369863, fmeasure=0.026809651474530828)
+ROUGE-L: Score(precision=1.0, recall=0.02459016393442623, fmeasure=0.048)
+----------------------------------------
+QA Pair 52:
+ROUGE-1: Score(precision=1.0, recall=0.08571428571428572, fmeasure=0.15789473684210528)
+ROUGE-2: Score(precision=1.0, recall=0.058823529411764705, fmeasure=0.1111111111111111)
+ROUGE-L: Score(precision=1.0, recall=0.08571428571428572, fmeasure=0.15789473684210528)
+----------------------------------------
+QA Pair 53:
+ROUGE-1: Score(precision=1.0, recall=0.1, fmeasure=0.18181818181818182)
+ROUGE-2: Score(precision=1.0, recall=0.09174311926605505, fmeasure=0.16806722689075632)
+ROUGE-L: Score(precision=1.0, recall=0.1, fmeasure=0.18181818181818182)
+----------------------------------------
+QA Pair 54:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 55:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 56:
+ROUGE-1: Score(precision=1.0, recall=0.3333333333333333, fmeasure=0.5)
+ROUGE-2: Score(precision=1.0, recall=0.29411764705882354, fmeasure=0.45454545454545453)
+ROUGE-L: Score(precision=1.0, recall=0.3333333333333333, fmeasure=0.5)
+----------------------------------------
+QA Pair 57:
+ROUGE-1: Score(precision=1.0, recall=0.3333333333333333, fmeasure=0.5)
+ROUGE-2: Score(precision=1.0, recall=0.3, fmeasure=0.4615384615384615)
+ROUGE-L: Score(precision=1.0, recall=0.3333333333333333, fmeasure=0.5)
+----------------------------------------
+QA Pair 58:
+ROUGE-1: Score(precision=1.0, recall=0.21875, fmeasure=0.358974358974359)
+ROUGE-2: Score(precision=1.0, recall=0.1935483870967742, fmeasure=0.3243243243243243)
+ROUGE-L: Score(precision=1.0, recall=0.21875, fmeasure=0.358974358974359)
+----------------------------------------
+QA Pair 59:
+ROUGE-1: Score(precision=1.0, recall=0.01969057665260197, fmeasure=0.03862068965517242)
+ROUGE-2: Score(precision=0.6153846153846154, recall=0.011267605633802818, fmeasure=0.022130013831258646)
+ROUGE-L: Score(precision=1.0, recall=0.01969057665260197, fmeasure=0.03862068965517242)
+----------------------------------------
+QA Pair 60:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 61:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 62:
+ROUGE-1: Score(precision=1.0, recall=0.15384615384615385, fmeasure=0.2666666666666667)
+ROUGE-2: Score(precision=1.0, recall=0.08333333333333333, fmeasure=0.15384615384615385)
+ROUGE-L: Score(precision=1.0, recall=0.15384615384615385, fmeasure=0.2666666666666667)
+----------------------------------------
+QA Pair 63:
+ROUGE-1: Score(precision=0.75, recall=0.16666666666666666, fmeasure=0.27272727272727276)
+ROUGE-2: Score(precision=0.3333333333333333, recall=0.058823529411764705, fmeasure=0.1)
+ROUGE-L: Score(precision=0.75, recall=0.16666666666666666, fmeasure=0.27272727272727276)
+----------------------------------------
+QA Pair 64:
+ROUGE-1: Score(precision=1.0, recall=0.3448275862068966, fmeasure=0.5128205128205129)
+ROUGE-2: Score(precision=1.0, recall=0.32142857142857145, fmeasure=0.4864864864864865)
+ROUGE-L: Score(precision=1.0, recall=0.3448275862068966, fmeasure=0.5128205128205129)
+----------------------------------------
+QA Pair 65:
+ROUGE-1: Score(precision=1.0, recall=0.175, fmeasure=0.2978723404255319)
+ROUGE-2: Score(precision=1.0, recall=0.15384615384615385, fmeasure=0.2666666666666667)
+ROUGE-L: Score(precision=1.0, recall=0.175, fmeasure=0.2978723404255319)
+----------------------------------------
+QA Pair 66:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 67:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 68:
+ROUGE-1: Score(precision=1.0, recall=0.35294117647058826, fmeasure=0.5217391304347826)
+ROUGE-2: Score(precision=1.0, recall=0.3125, fmeasure=0.47619047619047616)
+ROUGE-L: Score(precision=1.0, recall=0.35294117647058826, fmeasure=0.5217391304347826)
+----------------------------------------
+QA Pair 69:
+ROUGE-1: Score(precision=1.0, recall=0.06862745098039216, fmeasure=0.12844036697247707)
+ROUGE-2: Score(precision=1.0, recall=0.0594059405940594, fmeasure=0.11214953271028036)
+ROUGE-L: Score(precision=1.0, recall=0.06862745098039216, fmeasure=0.12844036697247707)
+----------------------------------------
+QA Pair 70:
+ROUGE-1: Score(precision=1.0, recall=0.2608695652173913, fmeasure=0.41379310344827586)
+ROUGE-2: Score(precision=1.0, recall=0.22727272727272727, fmeasure=0.37037037037037035)
+ROUGE-L: Score(precision=1.0, recall=0.2608695652173913, fmeasure=0.41379310344827586)
+----------------------------------------
+QA Pair 71:
+ROUGE-1: Score(precision=0.6666666666666666, recall=0.003367003367003367, fmeasure=0.006700167504187605)
+ROUGE-2: Score(precision=0.5, recall=0.0016863406408094434, fmeasure=0.0033613445378151263)
+ROUGE-L: Score(precision=0.6666666666666666, recall=0.003367003367003367, fmeasure=0.006700167504187605)
+----------------------------------------
+QA Pair 72:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 73:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 74:
+ROUGE-1: Score(precision=1.0, recall=0.20588235294117646, fmeasure=0.34146341463414637)
+ROUGE-2: Score(precision=1.0, recall=0.18181818181818182, fmeasure=0.3076923076923077)
+ROUGE-L: Score(precision=1.0, recall=0.20588235294117646, fmeasure=0.34146341463414637)
+----------------------------------------
+QA Pair 75:
+ROUGE-1: Score(precision=1.0, recall=0.5483870967741935, fmeasure=0.7083333333333333)
+ROUGE-2: Score(precision=1.0, recall=0.5333333333333333, fmeasure=0.6956521739130436)
+ROUGE-L: Score(precision=1.0, recall=0.5483870967741935, fmeasure=0.7083333333333333)
+----------------------------------------
+QA Pair 76:
+ROUGE-1: Score(precision=1.0, recall=0.5, fmeasure=0.6666666666666666)
+ROUGE-2: Score(precision=1.0, recall=0.4782608695652174, fmeasure=0.6470588235294118)
+ROUGE-L: Score(precision=1.0, recall=0.5, fmeasure=0.6666666666666666)
+----------------------------------------
+QA Pair 77:
+ROUGE-1: Score(precision=0.5833333333333334, recall=0.14285714285714285, fmeasure=0.22950819672131142)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0.5, recall=0.12244897959183673, fmeasure=0.19672131147540983)
+----------------------------------------
+QA Pair 78:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 79:
+ROUGE-1: Score(precision=1.0, recall=0.18518518518518517, fmeasure=0.3125)
+ROUGE-2: Score(precision=1.0, recall=0.15384615384615385, fmeasure=0.2666666666666667)
+ROUGE-L: Score(precision=1.0, recall=0.18518518518518517, fmeasure=0.3125)
+----------------------------------------
+QA Pair 80:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 81:
+ROUGE-1: Score(precision=1.0, recall=0.6097560975609756, fmeasure=0.7575757575757575)
+ROUGE-2: Score(precision=1.0, recall=0.6, fmeasure=0.7499999999999999)
+ROUGE-L: Score(precision=1.0, recall=0.6097560975609756, fmeasure=0.7575757575757575)
+----------------------------------------
+QA Pair 82:
+ROUGE-1: Score(precision=0.5454545454545454, recall=0.14634146341463414, fmeasure=0.23076923076923073)
+ROUGE-2: Score(precision=0.2, recall=0.05, fmeasure=0.08000000000000002)
+ROUGE-L: Score(precision=0.45454545454545453, recall=0.12195121951219512, fmeasure=0.19230769230769232)
+----------------------------------------
+QA Pair 83:
+ROUGE-1: Score(precision=0.9629629629629629, recall=0.6341463414634146, fmeasure=0.7647058823529412)
+ROUGE-2: Score(precision=0.9230769230769231, recall=0.6, fmeasure=0.7272727272727274)
+ROUGE-L: Score(precision=0.9259259259259259, recall=0.6097560975609756, fmeasure=0.7352941176470589)
+----------------------------------------
+QA Pair 84:
+ROUGE-1: Score(precision=1.0, recall=0.0945273631840796, fmeasure=0.17272727272727273)
+ROUGE-2: Score(precision=0.9444444444444444, recall=0.085, fmeasure=0.1559633027522936)
+ROUGE-L: Score(precision=1.0, recall=0.0945273631840796, fmeasure=0.17272727272727273)
+----------------------------------------
+QA Pair 85:
+ROUGE-1: Score(precision=1.0, recall=0.05, fmeasure=0.09523809523809523)
+ROUGE-2: Score(precision=1.0, recall=0.02564102564102564, fmeasure=0.05)
+ROUGE-L: Score(precision=1.0, recall=0.05, fmeasure=0.09523809523809523)
+----------------------------------------
+QA Pair 86:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 87:
+ROUGE-1: Score(precision=1.0, recall=0.625, fmeasure=0.7692307692307693)
+ROUGE-2: Score(precision=1.0, recall=0.6129032258064516, fmeasure=0.76)
+ROUGE-L: Score(precision=1.0, recall=0.625, fmeasure=0.7692307692307693)
+----------------------------------------
+QA Pair 88:
+ROUGE-1: Score(precision=1.0, recall=0.19642857142857142, fmeasure=0.3283582089552239)
+ROUGE-2: Score(precision=1.0, recall=0.18181818181818182, fmeasure=0.3076923076923077)
+ROUGE-L: Score(precision=1.0, recall=0.19642857142857142, fmeasure=0.3283582089552239)
+----------------------------------------
+QA Pair 89:
+ROUGE-1: Score(precision=0.75, recall=0.225, fmeasure=0.3461538461538462)
+ROUGE-2: Score(precision=0.36363636363636365, recall=0.10256410256410256, fmeasure=0.16)
+ROUGE-L: Score(precision=0.5833333333333334, recall=0.175, fmeasure=0.2692307692307692)
+----------------------------------------
+QA Pair 90:
+ROUGE-1: Score(precision=1.0, recall=0.044386422976501305, fmeasure=0.085)
+ROUGE-2: Score(precision=0.9375, recall=0.03926701570680628, fmeasure=0.07537688442211056)
+ROUGE-L: Score(precision=0.9411764705882353, recall=0.04177545691906005, fmeasure=0.08)
+----------------------------------------
+QA Pair 91:
+ROUGE-1: Score(precision=1.0, recall=0.028169014084507043, fmeasure=0.05479452054794521)
+ROUGE-2: Score(precision=1.0, recall=0.014285714285714285, fmeasure=0.028169014084507043)
+ROUGE-L: Score(precision=1.0, recall=0.028169014084507043, fmeasure=0.05479452054794521)
+----------------------------------------
+QA Pair 92:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 93:
+ROUGE-1: Score(precision=1.0, recall=0.13793103448275862, fmeasure=0.2424242424242424)
+ROUGE-2: Score(precision=1.0, recall=0.10714285714285714, fmeasure=0.19354838709677416)
+ROUGE-L: Score(precision=1.0, recall=0.13793103448275862, fmeasure=0.2424242424242424)
+----------------------------------------
+QA Pair 94:
+ROUGE-1: Score(precision=1.0, recall=0.35714285714285715, fmeasure=0.5263157894736842)
+ROUGE-2: Score(precision=1.0, recall=0.3076923076923077, fmeasure=0.47058823529411764)
+ROUGE-L: Score(precision=1.0, recall=0.35714285714285715, fmeasure=0.5263157894736842)
+----------------------------------------
+QA Pair 95:
+ROUGE-1: Score(precision=1.0, recall=0.3090909090909091, fmeasure=0.4722222222222222)
+ROUGE-2: Score(precision=0.875, recall=0.25925925925925924, fmeasure=0.39999999999999997)
+ROUGE-L: Score(precision=0.9411764705882353, recall=0.2909090909090909, fmeasure=0.44444444444444453)
+----------------------------------------
+QA Pair 96:
+ROUGE-1: Score(precision=0.9, recall=0.036885245901639344, fmeasure=0.07086614173228348)
+ROUGE-2: Score(precision=0.3333333333333333, recall=0.012345679012345678, fmeasure=0.023809523809523808)
+ROUGE-L: Score(precision=0.9, recall=0.036885245901639344, fmeasure=0.07086614173228348)
+----------------------------------------
+QA Pair 97:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 98:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 99:
+ROUGE-1: Score(precision=1.0, recall=0.3793103448275862, fmeasure=0.5499999999999999)
+ROUGE-2: Score(precision=1.0, recall=0.35714285714285715, fmeasure=0.5263157894736842)
+ROUGE-L: Score(precision=1.0, recall=0.3793103448275862, fmeasure=0.5499999999999999)
+----------------------------------------
+QA Pair 100:
+ROUGE-1: Score(precision=1.0, recall=0.36363636363636365, fmeasure=0.5333333333333333)
+ROUGE-2: Score(precision=1.0, recall=0.34375, fmeasure=0.5116279069767442)
+ROUGE-L: Score(precision=1.0, recall=0.36363636363636365, fmeasure=0.5333333333333333)
+----------------------------------------
+QA Pair 101:
+ROUGE-1: Score(precision=1.0, recall=0.5, fmeasure=0.6666666666666666)
+ROUGE-2: Score(precision=0.9375, recall=0.45454545454545453, fmeasure=0.6122448979591837)
+ROUGE-L: Score(precision=1.0, recall=0.5, fmeasure=0.6666666666666666)
+----------------------------------------
+QA Pair 102:
+ROUGE-1: Score(precision=0.8, recall=0.3076923076923077, fmeasure=0.4444444444444444)
+ROUGE-2: Score(precision=0.631578947368421, recall=0.23529411764705882, fmeasure=0.34285714285714286)
+ROUGE-L: Score(precision=0.8, recall=0.3076923076923077, fmeasure=0.4444444444444444)
+----------------------------------------
+QA Pair 103:
+ROUGE-1: Score(precision=1.0, recall=0.6470588235294118, fmeasure=0.7857142857142858)
+ROUGE-2: Score(precision=1.0, recall=0.625, fmeasure=0.7692307692307693)
+ROUGE-L: Score(precision=1.0, recall=0.6470588235294118, fmeasure=0.7857142857142858)
+----------------------------------------
+QA Pair 104:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 105:
+ROUGE-1: Score(precision=1.0, recall=0.13043478260869565, fmeasure=0.23076923076923078)
+ROUGE-2: Score(precision=1.0, recall=0.09090909090909091, fmeasure=0.16666666666666669)
+ROUGE-L: Score(precision=1.0, recall=0.13043478260869565, fmeasure=0.23076923076923078)
+----------------------------------------
+QA Pair 106:
+ROUGE-1: Score(precision=1.0, recall=0.4230769230769231, fmeasure=0.5945945945945945)
+ROUGE-2: Score(precision=1.0, recall=0.4117647058823529, fmeasure=0.5833333333333334)
+ROUGE-L: Score(precision=1.0, recall=0.4230769230769231, fmeasure=0.5945945945945945)
+----------------------------------------
+QA Pair 107:
+ROUGE-1: Score(precision=1.0, recall=0.0891089108910891, fmeasure=0.1636363636363636)
+ROUGE-2: Score(precision=0.375, recall=0.03, fmeasure=0.05555555555555555)
+ROUGE-L: Score(precision=0.8888888888888888, recall=0.07920792079207921, fmeasure=0.14545454545454545)
+----------------------------------------
+QA Pair 108:
+ROUGE-1: Score(precision=1.0, recall=0.2857142857142857, fmeasure=0.4444444444444445)
+ROUGE-2: Score(precision=1.0, recall=0.2753623188405797, fmeasure=0.4318181818181819)
+ROUGE-L: Score(precision=1.0, recall=0.2857142857142857, fmeasure=0.4444444444444445)
+----------------------------------------
+QA Pair 109:
+ROUGE-1: Score(precision=1.0, recall=0.017391304347826087, fmeasure=0.03418803418803419)
+ROUGE-2: Score(precision=1.0, recall=0.008771929824561403, fmeasure=0.017391304347826087)
+ROUGE-L: Score(precision=1.0, recall=0.017391304347826087, fmeasure=0.03418803418803419)
+----------------------------------------
+QA Pair 110:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 111:
+ROUGE-1: Score(precision=1.0, recall=0.0967741935483871, fmeasure=0.17647058823529413)
+ROUGE-2: Score(precision=1.0, recall=0.06666666666666667, fmeasure=0.125)
+ROUGE-L: Score(precision=1.0, recall=0.0967741935483871, fmeasure=0.17647058823529413)
+----------------------------------------
+QA Pair 112:
+ROUGE-1: Score(precision=1.0, recall=0.4067796610169492, fmeasure=0.5783132530120482)
+ROUGE-2: Score(precision=0.8260869565217391, recall=0.3275862068965517, fmeasure=0.4691358024691358)
+ROUGE-L: Score(precision=1.0, recall=0.4067796610169492, fmeasure=0.5783132530120482)
+----------------------------------------
+QA Pair 113:
+ROUGE-1: Score(precision=1.0, recall=0.5882352941176471, fmeasure=0.7407407407407407)
+ROUGE-2: Score(precision=1.0, recall=0.5625, fmeasure=0.72)
+ROUGE-L: Score(precision=1.0, recall=0.5882352941176471, fmeasure=0.7407407407407407)
+----------------------------------------
+QA Pair 114:
+ROUGE-1: Score(precision=1.0, recall=0.07207207207207207, fmeasure=0.13445378151260504)
+ROUGE-2: Score(precision=1.0, recall=0.06363636363636363, fmeasure=0.11965811965811964)
+ROUGE-L: Score(precision=1.0, recall=0.07207207207207207, fmeasure=0.13445378151260504)
+----------------------------------------
+QA Pair 115:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 116:
+ROUGE-1: Score(precision=1.0, recall=0.14285714285714285, fmeasure=0.25)
+ROUGE-2: Score(precision=1.0, recall=0.125, fmeasure=0.2222222222222222)
+ROUGE-L: Score(precision=1.0, recall=0.14285714285714285, fmeasure=0.25)
+----------------------------------------
+QA Pair 117:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 118:
+ROUGE-1: Score(precision=1.0, recall=0.4230769230769231, fmeasure=0.5945945945945945)
+ROUGE-2: Score(precision=1.0, recall=0.4, fmeasure=0.5714285714285715)
+ROUGE-L: Score(precision=1.0, recall=0.4230769230769231, fmeasure=0.5945945945945945)
+----------------------------------------
+QA Pair 119:
+ROUGE-1: Score(precision=1.0, recall=0.21951219512195122, fmeasure=0.36)
+ROUGE-2: Score(precision=1.0, recall=0.2, fmeasure=0.33333333333333337)
+ROUGE-L: Score(precision=1.0, recall=0.21951219512195122, fmeasure=0.36)
+----------------------------------------
+QA Pair 120:
+ROUGE-1: Score(precision=1.0, recall=0.4358974358974359, fmeasure=0.6071428571428571)
+ROUGE-2: Score(precision=1.0, recall=0.42105263157894735, fmeasure=0.5925925925925926)
+ROUGE-L: Score(precision=1.0, recall=0.4358974358974359, fmeasure=0.6071428571428571)
+----------------------------------------
+QA Pair 121:
+ROUGE-1: Score(precision=1.0, recall=0.3229166666666667, fmeasure=0.4881889763779528)
+ROUGE-2: Score(precision=0.9333333333333333, recall=0.29473684210526313, fmeasure=0.44799999999999995)
+ROUGE-L: Score(precision=0.967741935483871, recall=0.3125, fmeasure=0.47244094488188976)
+----------------------------------------
+QA Pair 122:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 123:
+ROUGE-1: Score(precision=1.0, recall=0.19298245614035087, fmeasure=0.3235294117647059)
+ROUGE-2: Score(precision=1.0, recall=0.17857142857142858, fmeasure=0.30303030303030304)
+ROUGE-L: Score(precision=1.0, recall=0.19298245614035087, fmeasure=0.3235294117647059)
+----------------------------------------
+QA Pair 124:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 125:
+ROUGE-1: Score(precision=0.8333333333333334, recall=0.4166666666666667, fmeasure=0.5555555555555556)
+ROUGE-2: Score(precision=0.6, recall=0.2727272727272727, fmeasure=0.37499999999999994)
+ROUGE-L: Score(precision=0.6666666666666666, recall=0.3333333333333333, fmeasure=0.4444444444444444)
+----------------------------------------
+QA Pair 126:
+ROUGE-1: Score(precision=1.0, recall=0.18181818181818182, fmeasure=0.3076923076923077)
+ROUGE-2: Score(precision=1.0, recall=0.14285714285714285, fmeasure=0.25)
+ROUGE-L: Score(precision=1.0, recall=0.18181818181818182, fmeasure=0.3076923076923077)
+----------------------------------------
+QA Pair 127:
+ROUGE-1: Score(precision=1.0, recall=0.13333333333333333, fmeasure=0.23529411764705882)
+ROUGE-2: Score(precision=1.0, recall=0.11864406779661017, fmeasure=0.21212121212121215)
+ROUGE-L: Score(precision=1.0, recall=0.13333333333333333, fmeasure=0.23529411764705882)
+----------------------------------------
+QA Pair 128:
+ROUGE-1: Score(precision=1.0, recall=0.09411764705882353, fmeasure=0.17204301075268816)
+ROUGE-2: Score(precision=0.8571428571428571, recall=0.07142857142857142, fmeasure=0.13186813186813187)
+ROUGE-L: Score(precision=1.0, recall=0.09411764705882353, fmeasure=0.17204301075268816)
+----------------------------------------
+QA Pair 129:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 130:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 131:
+ROUGE-1: Score(precision=1.0, recall=0.10526315789473684, fmeasure=0.1904761904761905)
+ROUGE-2: Score(precision=1.0, recall=0.08108108108108109, fmeasure=0.15)
+ROUGE-L: Score(precision=1.0, recall=0.10526315789473684, fmeasure=0.1904761904761905)
+----------------------------------------
+QA Pair 132:
+ROUGE-1: Score(precision=1.0, recall=0.043478260869565216, fmeasure=0.08333333333333333)
+ROUGE-2: Score(precision=1.0, recall=0.022222222222222223, fmeasure=0.04347826086956522)
+ROUGE-L: Score(precision=1.0, recall=0.043478260869565216, fmeasure=0.08333333333333333)
+----------------------------------------
+QA Pair 133:
+ROUGE-1: Score(precision=0.8, recall=0.19047619047619047, fmeasure=0.3076923076923077)
+ROUGE-2: Score(precision=0.5, recall=0.1, fmeasure=0.16666666666666669)
+ROUGE-L: Score(precision=0.8, recall=0.19047619047619047, fmeasure=0.3076923076923077)
+----------------------------------------
+QA Pair 134:
+ROUGE-1: Score(precision=1.0, recall=0.15942028985507245, fmeasure=0.27499999999999997)
+ROUGE-2: Score(precision=0.9, recall=0.1323529411764706, fmeasure=0.23076923076923075)
+ROUGE-L: Score(precision=0.6363636363636364, recall=0.10144927536231885, fmeasure=0.17500000000000002)
+----------------------------------------
+QA Pair 135:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+----------------------------------------
+QA Pair 136:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 137:
+ROUGE-1: Score(precision=1.0, recall=0.56, fmeasure=0.717948717948718)
+ROUGE-2: Score(precision=1.0, recall=0.5416666666666666, fmeasure=0.7027027027027027)
+ROUGE-L: Score(precision=1.0, recall=0.56, fmeasure=0.717948717948718)
+----------------------------------------
+QA Pair 138:
+ROUGE-1: Score(precision=1.0, recall=0.17391304347826086, fmeasure=0.29629629629629634)
+ROUGE-2: Score(precision=1.0, recall=0.13636363636363635, fmeasure=0.24000000000000002)
+ROUGE-L: Score(precision=1.0, recall=0.17391304347826086, fmeasure=0.29629629629629634)
+----------------------------------------
+QA Pair 139:
+ROUGE-1: Score(precision=1.0, recall=0.559322033898305, fmeasure=0.717391304347826)
+ROUGE-2: Score(precision=1.0, recall=0.5517241379310345, fmeasure=0.7111111111111111)
+ROUGE-L: Score(precision=1.0, recall=0.559322033898305, fmeasure=0.717391304347826)
+----------------------------------------
+QA Pair 140:
+ROUGE-1: Score(precision=1.0, recall=0.041237113402061855, fmeasure=0.0792079207920792)
+ROUGE-2: Score(precision=0.6666666666666666, recall=0.020833333333333332, fmeasure=0.0404040404040404)
+ROUGE-L: Score(precision=1.0, recall=0.041237113402061855, fmeasure=0.0792079207920792)
+----------------------------------------
+QA Pair 141:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 142:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 143:
+ROUGE-1: Score(precision=1.0, recall=0.26153846153846155, fmeasure=0.41463414634146345)
+ROUGE-2: Score(precision=1.0, recall=0.25, fmeasure=0.4)
+ROUGE-L: Score(precision=1.0, recall=0.26153846153846155, fmeasure=0.41463414634146345)
+----------------------------------------
+QA Pair 144:
+ROUGE-1: Score(precision=1.0, recall=0.2857142857142857, fmeasure=0.4444444444444445)
+ROUGE-2: Score(precision=0.8461538461538461, recall=0.22916666666666666, fmeasure=0.360655737704918)
+ROUGE-L: Score(precision=1.0, recall=0.2857142857142857, fmeasure=0.4444444444444445)
+----------------------------------------
+QA Pair 145:
+ROUGE-1: Score(precision=1.0, recall=0.425, fmeasure=0.5964912280701754)
+ROUGE-2: Score(precision=1.0, recall=0.41025641025641024, fmeasure=0.5818181818181819)
+ROUGE-L: Score(precision=1.0, recall=0.425, fmeasure=0.5964912280701754)
+----------------------------------------
+QA Pair 146:
+ROUGE-1: Score(precision=1.0, recall=0.27848101265822783, fmeasure=0.43564356435643564)
+ROUGE-2: Score(precision=1.0, recall=0.2692307692307692, fmeasure=0.42424242424242425)
+ROUGE-L: Score(precision=1.0, recall=0.27848101265822783, fmeasure=0.43564356435643564)
+----------------------------------------
+QA Pair 147:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 148:
+ROUGE-1: Score(precision=1.0, recall=0.2, fmeasure=0.33333333333333337)
+ROUGE-2: Score(precision=1.0, recall=0.1891891891891892, fmeasure=0.3181818181818182)
+ROUGE-L: Score(precision=1.0, recall=0.2, fmeasure=0.33333333333333337)
+----------------------------------------
+QA Pair 149:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 150:
+ROUGE-1: Score(precision=1.0, recall=0.20833333333333334, fmeasure=0.3448275862068966)
+ROUGE-2: Score(precision=1.0, recall=0.17391304347826086, fmeasure=0.29629629629629634)
+ROUGE-L: Score(precision=1.0, recall=0.20833333333333334, fmeasure=0.3448275862068966)
+----------------------------------------
+QA Pair 151:
+ROUGE-1: Score(precision=1.0, recall=0.15789473684210525, fmeasure=0.2727272727272727)
+ROUGE-2: Score(precision=1.0, recall=0.1111111111111111, fmeasure=0.19999999999999998)
+ROUGE-L: Score(precision=1.0, recall=0.15789473684210525, fmeasure=0.2727272727272727)
+----------------------------------------
+QA Pair 152:
+ROUGE-1: Score(precision=1.0, recall=0.3333333333333333, fmeasure=0.5)
+ROUGE-2: Score(precision=1.0, recall=0.25, fmeasure=0.4)
+ROUGE-L: Score(precision=1.0, recall=0.3333333333333333, fmeasure=0.5)
+----------------------------------------
+QA Pair 153:
+ROUGE-1: Score(precision=1.0, recall=0.6538461538461539, fmeasure=0.7906976744186047)
+ROUGE-2: Score(precision=1.0, recall=0.64, fmeasure=0.7804878048780487)
+ROUGE-L: Score(precision=1.0, recall=0.6538461538461539, fmeasure=0.7906976744186047)
+----------------------------------------
+QA Pair 154:
+ROUGE-1: Score(precision=1.0, recall=0.4375, fmeasure=0.6086956521739131)
+ROUGE-2: Score(precision=1.0, recall=0.4, fmeasure=0.5714285714285715)
+ROUGE-L: Score(precision=1.0, recall=0.4375, fmeasure=0.6086956521739131)
+----------------------------------------
+QA Pair 155:
+ROUGE-1: Score(precision=1.0, recall=0.012048192771084338, fmeasure=0.02380952380952381)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=0.012048192771084338, fmeasure=0.02380952380952381)
+----------------------------------------
+QA Pair 156:
+ROUGE-1: Score(precision=1.0, recall=0.4166666666666667, fmeasure=0.5882352941176471)
+ROUGE-2: Score(precision=1.0, recall=0.4084507042253521, fmeasure=0.5800000000000001)
+ROUGE-L: Score(precision=1.0, recall=0.4166666666666667, fmeasure=0.5882352941176471)
+----------------------------------------
+QA Pair 157:
+ROUGE-1: Score(precision=1.0, recall=0.09375, fmeasure=0.17142857142857143)
+ROUGE-2: Score(precision=1.0, recall=0.06451612903225806, fmeasure=0.12121212121212122)
+ROUGE-L: Score(precision=1.0, recall=0.09375, fmeasure=0.17142857142857143)
+----------------------------------------
+QA Pair 158:
+ROUGE-1: Score(precision=1.0, recall=0.27450980392156865, fmeasure=0.43076923076923085)
+ROUGE-2: Score(precision=1.0, recall=0.26, fmeasure=0.41269841269841273)
+ROUGE-L: Score(precision=1.0, recall=0.27450980392156865, fmeasure=0.43076923076923085)
+----------------------------------------
+QA Pair 159:
+ROUGE-1: Score(precision=1.0, recall=0.05555555555555555, fmeasure=0.10526315789473684)
+ROUGE-2: Score(precision=1.0, recall=0.03773584905660377, fmeasure=0.07272727272727272)
+ROUGE-L: Score(precision=1.0, recall=0.05555555555555555, fmeasure=0.10526315789473684)
+----------------------------------------
+QA Pair 160:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 161:
+ROUGE-1: Score(precision=1.0, recall=0.36, fmeasure=0.5294117647058824)
+ROUGE-2: Score(precision=1.0, recall=0.3333333333333333, fmeasure=0.5)
+ROUGE-L: Score(precision=1.0, recall=0.36, fmeasure=0.5294117647058824)
+----------------------------------------
+QA Pair 162:
+ROUGE-1: Score(precision=1.0, recall=0.10596026490066225, fmeasure=0.19161676646706585)
+ROUGE-2: Score(precision=1.0, recall=0.1, fmeasure=0.18181818181818182)
+ROUGE-L: Score(precision=1.0, recall=0.10596026490066225, fmeasure=0.19161676646706585)
+----------------------------------------
+QA Pair 163:
+ROUGE-1: Score(precision=1.0, recall=0.10126582278481013, fmeasure=0.18390804597701146)
+ROUGE-2: Score(precision=1.0, recall=0.09554140127388536, fmeasure=0.1744186046511628)
+ROUGE-L: Score(precision=1.0, recall=0.10126582278481013, fmeasure=0.18390804597701146)
+----------------------------------------
+QA Pair 164:
+ROUGE-1: Score(precision=1.0, recall=0.30434782608695654, fmeasure=0.4666666666666667)
+ROUGE-2: Score(precision=1.0, recall=0.2727272727272727, fmeasure=0.42857142857142855)
+ROUGE-L: Score(precision=1.0, recall=0.30434782608695654, fmeasure=0.4666666666666667)
+----------------------------------------
+QA Pair 165:
+ROUGE-1: Score(precision=1.0, recall=0.5373134328358209, fmeasure=0.6990291262135923)
+ROUGE-2: Score(precision=1.0, recall=0.5303030303030303, fmeasure=0.693069306930693)
+ROUGE-L: Score(precision=1.0, recall=0.5373134328358209, fmeasure=0.6990291262135923)
+----------------------------------------
+QA Pair 166:
+ROUGE-1: Score(precision=1.0, recall=0.05263157894736842, fmeasure=0.1)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=0.05263157894736842, fmeasure=0.1)
+----------------------------------------
+QA Pair 167:
+ROUGE-1: Score(precision=1.0, recall=0.17073170731707318, fmeasure=0.2916666666666667)
+ROUGE-2: Score(precision=0.8333333333333334, recall=0.125, fmeasure=0.21739130434782608)
+ROUGE-L: Score(precision=1.0, recall=0.17073170731707318, fmeasure=0.2916666666666667)
+----------------------------------------
+QA Pair 168:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 169:
+ROUGE-1: Score(precision=1.0, recall=0.4444444444444444, fmeasure=0.6153846153846153)
+ROUGE-2: Score(precision=1.0, recall=0.42857142857142855, fmeasure=0.6)
+ROUGE-L: Score(precision=1.0, recall=0.4444444444444444, fmeasure=0.6153846153846153)
+----------------------------------------
+QA Pair 170:
+ROUGE-1: Score(precision=1.0, recall=0.14705882352941177, fmeasure=0.25641025641025644)
+ROUGE-2: Score(precision=1.0, recall=0.12121212121212122, fmeasure=0.21621621621621626)
+ROUGE-L: Score(precision=1.0, recall=0.14705882352941177, fmeasure=0.25641025641025644)
+----------------------------------------
+QA Pair 171:
+ROUGE-1: Score(precision=1.0, recall=0.03289473684210526, fmeasure=0.06369426751592357)
+ROUGE-2: Score(precision=1.0, recall=0.026490066225165563, fmeasure=0.05161290322580646)
+ROUGE-L: Score(precision=1.0, recall=0.03289473684210526, fmeasure=0.06369426751592357)
+----------------------------------------
+QA Pair 172:
+ROUGE-1: Score(precision=0.9743589743589743, recall=0.3619047619047619, fmeasure=0.5277777777777778)
+ROUGE-2: Score(precision=0.8421052631578947, recall=0.3076923076923077, fmeasure=0.4507042253521127)
+ROUGE-L: Score(precision=0.8974358974358975, recall=0.3333333333333333, fmeasure=0.48611111111111105)
+----------------------------------------
+QA Pair 173:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 174:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 175:
+ROUGE-1: Score(precision=1.0, recall=0.08823529411764706, fmeasure=0.1621621621621622)
+ROUGE-2: Score(precision=1.0, recall=0.07462686567164178, fmeasure=0.13888888888888887)
+ROUGE-L: Score(precision=1.0, recall=0.08823529411764706, fmeasure=0.1621621621621622)
+----------------------------------------
+QA Pair 176:
+ROUGE-1: Score(precision=1.0, recall=0.08387096774193549, fmeasure=0.15476190476190477)
+ROUGE-2: Score(precision=1.0, recall=0.07792207792207792, fmeasure=0.14457831325301204)
+ROUGE-L: Score(precision=1.0, recall=0.08387096774193549, fmeasure=0.15476190476190477)
+----------------------------------------
+QA Pair 177:
+ROUGE-1: Score(precision=1.0, recall=0.14655172413793102, fmeasure=0.2556390977443609)
+ROUGE-2: Score(precision=1.0, recall=0.1391304347826087, fmeasure=0.24427480916030533)
+ROUGE-L: Score(precision=1.0, recall=0.14655172413793102, fmeasure=0.2556390977443609)
+----------------------------------------
+QA Pair 178:
+ROUGE-1: Score(precision=1.0, recall=0.23529411764705882, fmeasure=0.38095238095238093)
+ROUGE-2: Score(precision=0.7142857142857143, recall=0.15151515151515152, fmeasure=0.25)
+ROUGE-L: Score(precision=0.625, recall=0.14705882352941177, fmeasure=0.2380952380952381)
+----------------------------------------
+QA Pair 179:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 180:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 181:
+ROUGE-1: Score(precision=1.0, recall=0.3137254901960784, fmeasure=0.47761194029850745)
+ROUGE-2: Score(precision=1.0, recall=0.3, fmeasure=0.4615384615384615)
+ROUGE-L: Score(precision=1.0, recall=0.3137254901960784, fmeasure=0.47761194029850745)
+----------------------------------------
+QA Pair 182:
+ROUGE-1: Score(precision=1.0, recall=0.37037037037037035, fmeasure=0.5405405405405406)
+ROUGE-2: Score(precision=1.0, recall=0.34615384615384615, fmeasure=0.5142857142857142)
+ROUGE-L: Score(precision=1.0, recall=0.37037037037037035, fmeasure=0.5405405405405406)
+----------------------------------------
+QA Pair 183:
+ROUGE-1: Score(precision=0.6, recall=0.15384615384615385, fmeasure=0.2448979591836735)
+ROUGE-2: Score(precision=0.2222222222222222, recall=0.05263157894736842, fmeasure=0.0851063829787234)
+ROUGE-L: Score(precision=0.6, recall=0.15384615384615385, fmeasure=0.2448979591836735)
+----------------------------------------
+QA Pair 184:
+ROUGE-1: Score(precision=0.9622641509433962, recall=0.11258278145695365, fmeasure=0.20158102766798422)
+ROUGE-2: Score(precision=0.7884615384615384, recall=0.09070796460176991, fmeasure=0.1626984126984127)
+ROUGE-L: Score(precision=0.8490566037735849, recall=0.09933774834437085, fmeasure=0.17786561264822134)
+----------------------------------------
+QA Pair 185:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 186:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 187:
+ROUGE-1: Score(precision=1.0, recall=0.19230769230769232, fmeasure=0.32258064516129037)
+ROUGE-2: Score(precision=1.0, recall=0.16, fmeasure=0.2758620689655173)
+ROUGE-L: Score(precision=1.0, recall=0.19230769230769232, fmeasure=0.32258064516129037)
+----------------------------------------
+QA Pair 188:
+ROUGE-1: Score(precision=1.0, recall=0.3382352941176471, fmeasure=0.5054945054945055)
+ROUGE-2: Score(precision=1.0, recall=0.3283582089552239, fmeasure=0.4943820224719101)
+ROUGE-L: Score(precision=1.0, recall=0.3382352941176471, fmeasure=0.5054945054945055)
+----------------------------------------
+QA Pair 189:
+ROUGE-1: Score(precision=1.0, recall=0.05555555555555555, fmeasure=0.10526315789473684)
+ROUGE-2: Score(precision=1.0, recall=0.02857142857142857, fmeasure=0.05555555555555556)
+ROUGE-L: Score(precision=1.0, recall=0.05555555555555555, fmeasure=0.10526315789473684)
+----------------------------------------
+QA Pair 190:
+ROUGE-1: Score(precision=0.8888888888888888, recall=0.024691358024691357, fmeasure=0.04804804804804805)
+ROUGE-2: Score(precision=0.7058823529411765, recall=0.01854714064914992, fmeasure=0.036144578313253004)
+ROUGE-L: Score(precision=0.8333333333333334, recall=0.023148148148148147, fmeasure=0.04504504504504504)
+----------------------------------------
+QA Pair 191:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 192:
+ROUGE-1: Score(precision=1.0, recall=0.018518518518518517, fmeasure=0.03636363636363636)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=0.018518518518518517, fmeasure=0.03636363636363636)
+----------------------------------------
+QA Pair 193:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 194:
+ROUGE-1: Score(precision=1.0, recall=0.04784688995215311, fmeasure=0.091324200913242)
+ROUGE-2: Score(precision=0.7777777777777778, recall=0.03365384615384615, fmeasure=0.06451612903225806)
+ROUGE-L: Score(precision=1.0, recall=0.04784688995215311, fmeasure=0.091324200913242)
+----------------------------------------
+QA Pair 195:
+ROUGE-1: Score(precision=0.9545454545454546, recall=0.25, fmeasure=0.39622641509433965)
+ROUGE-2: Score(precision=0.9047619047619048, recall=0.2289156626506024, fmeasure=0.36538461538461536)
+ROUGE-L: Score(precision=0.6818181818181818, recall=0.17857142857142858, fmeasure=0.2830188679245283)
+----------------------------------------
+QA Pair 196:
+ROUGE-1: Score(precision=1.0, recall=0.42105263157894735, fmeasure=0.5925925925925926)
+ROUGE-2: Score(precision=1.0, recall=0.3888888888888889, fmeasure=0.56)
+ROUGE-L: Score(precision=1.0, recall=0.42105263157894735, fmeasure=0.5925925925925926)
+----------------------------------------
+QA Pair 197:
+ROUGE-1: Score(precision=1.0, recall=0.13793103448275862, fmeasure=0.2424242424242424)
+ROUGE-2: Score(precision=0.6363636363636364, recall=0.08139534883720931, fmeasure=0.1443298969072165)
+ROUGE-L: Score(precision=0.9166666666666666, recall=0.12643678160919541, fmeasure=0.22222222222222224)
+----------------------------------------
+QA Pair 198:
+ROUGE-1: Score(precision=1.0, recall=0.03225806451612903, fmeasure=0.0625)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=0.03225806451612903, fmeasure=0.0625)
+----------------------------------------
+QA Pair 199:
+ROUGE-1: Score(precision=1.0, recall=0.06521739130434782, fmeasure=0.12244897959183672)
+ROUGE-2: Score(precision=1.0, recall=0.044444444444444446, fmeasure=0.0851063829787234)
+ROUGE-L: Score(precision=1.0, recall=0.06521739130434782, fmeasure=0.12244897959183672)
+----------------------------------------
+QA Pair 200:
+ROUGE-1: Score(precision=1.0, recall=0.14788732394366197, fmeasure=0.25766871165644173)
+ROUGE-2: Score(precision=0.95, recall=0.1347517730496454, fmeasure=0.23602484472049687)
+ROUGE-L: Score(precision=0.9523809523809523, recall=0.14084507042253522, fmeasure=0.245398773006135)
+----------------------------------------
+QA Pair 201:
+ROUGE-1: Score(precision=1.0, recall=0.21875, fmeasure=0.358974358974359)
+ROUGE-2: Score(precision=1.0, recall=0.1935483870967742, fmeasure=0.3243243243243243)
+ROUGE-L: Score(precision=1.0, recall=0.21875, fmeasure=0.358974358974359)
+----------------------------------------
+QA Pair 202:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 203:
+ROUGE-1: Score(precision=1.0, recall=0.38181818181818183, fmeasure=0.5526315789473685)
+ROUGE-2: Score(precision=0.9, recall=0.3333333333333333, fmeasure=0.48648648648648646)
+ROUGE-L: Score(precision=0.9523809523809523, recall=0.36363636363636365, fmeasure=0.5263157894736843)
+----------------------------------------
+QA Pair 204:
+ROUGE-1: Score(precision=0.375, recall=0.028037383177570093, fmeasure=0.05217391304347826)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0.25, recall=0.018691588785046728, fmeasure=0.034782608695652174)
+----------------------------------------
+QA Pair 205:
+ROUGE-1: Score(precision=1.0, recall=0.21153846153846154, fmeasure=0.34920634920634924)
+ROUGE-2: Score(precision=1.0, recall=0.19607843137254902, fmeasure=0.3278688524590164)
+ROUGE-L: Score(precision=1.0, recall=0.21153846153846154, fmeasure=0.34920634920634924)
+----------------------------------------
+QA Pair 206:
+ROUGE-1: Score(precision=1.0, recall=0.5178571428571429, fmeasure=0.6823529411764707)
+ROUGE-2: Score(precision=0.9642857142857143, recall=0.4909090909090909, fmeasure=0.6506024096385543)
+ROUGE-L: Score(precision=1.0, recall=0.5178571428571429, fmeasure=0.6823529411764707)
+----------------------------------------
+QA Pair 207:
+ROUGE-1: Score(precision=1.0, recall=0.10526315789473684, fmeasure=0.1904761904761905)
+ROUGE-2: Score(precision=1.0, recall=0.05555555555555555, fmeasure=0.10526315789473684)
+ROUGE-L: Score(precision=1.0, recall=0.10526315789473684, fmeasure=0.1904761904761905)
+----------------------------------------
+QA Pair 208:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 209:
+ROUGE-1: Score(precision=1.0, recall=0.10714285714285714, fmeasure=0.19354838709677416)
+ROUGE-2: Score(precision=1.0, recall=0.07407407407407407, fmeasure=0.13793103448275862)
+ROUGE-L: Score(precision=1.0, recall=0.10714285714285714, fmeasure=0.19354838709677416)
+----------------------------------------
+QA Pair 210:
+ROUGE-1: Score(precision=1.0, recall=0.10714285714285714, fmeasure=0.19354838709677416)
+ROUGE-2: Score(precision=1.0, recall=0.07407407407407407, fmeasure=0.13793103448275862)
+ROUGE-L: Score(precision=1.0, recall=0.10714285714285714, fmeasure=0.19354838709677416)
+----------------------------------------
+QA Pair 211:
+ROUGE-1: Score(precision=1.0, recall=0.19230769230769232, fmeasure=0.32258064516129037)
+ROUGE-2: Score(precision=1.0, recall=0.16, fmeasure=0.2758620689655173)
+ROUGE-L: Score(precision=1.0, recall=0.19230769230769232, fmeasure=0.32258064516129037)
+----------------------------------------
+QA Pair 212:
+ROUGE-1: Score(precision=1.0, recall=0.04878048780487805, fmeasure=0.09302325581395349)
+ROUGE-2: Score(precision=1.0, recall=0.045454545454545456, fmeasure=0.08695652173913045)
+ROUGE-L: Score(precision=1.0, recall=0.04878048780487805, fmeasure=0.09302325581395349)
+----------------------------------------
+QA Pair 213:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 214:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 215:
+ROUGE-1: Score(precision=1.0, recall=0.2647058823529412, fmeasure=0.4186046511627907)
+ROUGE-2: Score(precision=1.0, recall=0.24242424242424243, fmeasure=0.3902439024390244)
+ROUGE-L: Score(precision=1.0, recall=0.2647058823529412, fmeasure=0.4186046511627907)
+----------------------------------------
+QA Pair 216:
+ROUGE-1: Score(precision=1.0, recall=0.0776255707762557, fmeasure=0.1440677966101695)
+ROUGE-2: Score(precision=0.9375, recall=0.06880733944954129, fmeasure=0.12820512820512822)
+ROUGE-L: Score(precision=1.0, recall=0.0776255707762557, fmeasure=0.1440677966101695)
+----------------------------------------
+QA Pair 217:
+ROUGE-1: Score(precision=1.0, recall=0.3023255813953488, fmeasure=0.46428571428571425)
+ROUGE-2: Score(precision=1.0, recall=0.2857142857142857, fmeasure=0.4444444444444445)
+ROUGE-L: Score(precision=1.0, recall=0.3023255813953488, fmeasure=0.46428571428571425)
+----------------------------------------
+QA Pair 218:
+ROUGE-1: Score(precision=0.9743589743589743, recall=0.1347517730496454, fmeasure=0.2367601246105919)
+ROUGE-2: Score(precision=0.7631578947368421, recall=0.10320284697508897, fmeasure=0.18181818181818182)
+ROUGE-L: Score(precision=0.7948717948717948, recall=0.1099290780141844, fmeasure=0.19314641744548286)
+----------------------------------------
+QA Pair 219:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 220:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 221:
+ROUGE-1: Score(precision=0.6666666666666666, recall=0.05263157894736842, fmeasure=0.09756097560975609)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0.6666666666666666, recall=0.05263157894736842, fmeasure=0.09756097560975609)
+----------------------------------------
+QA Pair 222:
+ROUGE-1: Score(precision=0.3333333333333333, recall=0.15384615384615385, fmeasure=0.21052631578947367)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0.16666666666666666, recall=0.07692307692307693, fmeasure=0.10526315789473684)
+----------------------------------------
+QA Pair 223:
+ROUGE-1: Score(precision=0.3333333333333333, recall=0.05405405405405406, fmeasure=0.09302325581395349)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0.3333333333333333, recall=0.05405405405405406, fmeasure=0.09302325581395349)
+----------------------------------------
+QA Pair 224:
+ROUGE-1: Score(precision=0.8333333333333334, recall=0.032679738562091505, fmeasure=0.06289308176100629)
+ROUGE-2: Score(precision=0.6, recall=0.019736842105263157, fmeasure=0.03821656050955414)
+ROUGE-L: Score(precision=0.8333333333333334, recall=0.032679738562091505, fmeasure=0.06289308176100629)
+----------------------------------------
+QA Pair 225:
+ROUGE-1: Score(precision=1.0, recall=0.008695652173913044, fmeasure=0.017241379310344827)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=0.008695652173913044, fmeasure=0.017241379310344827)
+----------------------------------------
+QA Pair 226:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 227:
+ROUGE-1: Score(precision=1.0, recall=0.3, fmeasure=0.4615384615384615)
+ROUGE-2: Score(precision=1.0, recall=0.2631578947368421, fmeasure=0.4166666666666667)
+ROUGE-L: Score(precision=1.0, recall=0.3, fmeasure=0.4615384615384615)
+----------------------------------------
+QA Pair 228:
+ROUGE-1: Score(precision=1.0, recall=0.21621621621621623, fmeasure=0.35555555555555557)
+ROUGE-2: Score(precision=1.0, recall=0.19444444444444445, fmeasure=0.32558139534883723)
+ROUGE-L: Score(precision=1.0, recall=0.21621621621621623, fmeasure=0.35555555555555557)
+----------------------------------------
+QA Pair 229:
+ROUGE-1: Score(precision=1.0, recall=0.391304347826087, fmeasure=0.5625)
+ROUGE-2: Score(precision=1.0, recall=0.37777777777777777, fmeasure=0.5483870967741935)
+ROUGE-L: Score(precision=1.0, recall=0.391304347826087, fmeasure=0.5625)
+----------------------------------------
+QA Pair 230:
+ROUGE-1: Score(precision=0.9629629629629629, recall=0.5306122448979592, fmeasure=0.6842105263157895)
+ROUGE-2: Score(precision=0.7307692307692307, recall=0.3958333333333333, fmeasure=0.5135135135135135)
+ROUGE-L: Score(precision=0.9259259259259259, recall=0.5102040816326531, fmeasure=0.6578947368421053)
+----------------------------------------
+QA Pair 231:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 232:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 233:
+ROUGE-1: Score(precision=1.0, recall=0.5384615384615384, fmeasure=0.7000000000000001)
+ROUGE-2: Score(precision=1.0, recall=0.52, fmeasure=0.6842105263157895)
+ROUGE-L: Score(precision=1.0, recall=0.5384615384615384, fmeasure=0.7000000000000001)
+----------------------------------------
+QA Pair 234:
+ROUGE-1: Score(precision=1.0, recall=0.41935483870967744, fmeasure=0.5909090909090909)
+ROUGE-2: Score(precision=1.0, recall=0.4, fmeasure=0.5714285714285715)
+ROUGE-L: Score(precision=1.0, recall=0.41935483870967744, fmeasure=0.5909090909090909)
+----------------------------------------
+QA Pair 235:
+ROUGE-1: Score(precision=1.0, recall=0.4, fmeasure=0.5714285714285715)
+ROUGE-2: Score(precision=1.0, recall=0.35714285714285715, fmeasure=0.5263157894736842)
+ROUGE-L: Score(precision=1.0, recall=0.4, fmeasure=0.5714285714285715)
+----------------------------------------
+QA Pair 236:
+ROUGE-1: Score(precision=1.0, recall=0.6, fmeasure=0.7499999999999999)
+ROUGE-2: Score(precision=1.0, recall=0.5714285714285714, fmeasure=0.7272727272727273)
+ROUGE-L: Score(precision=1.0, recall=0.6, fmeasure=0.7499999999999999)
+----------------------------------------
+QA Pair 237:
+ROUGE-1: Score(precision=1.0, recall=0.014084507042253521, fmeasure=0.02777777777777778)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=0.014084507042253521, fmeasure=0.02777777777777778)
+----------------------------------------
+QA Pair 238:
+ROUGE-1: Score(precision=1.0, recall=0.21641791044776118, fmeasure=0.35582822085889565)
+ROUGE-2: Score(precision=0.9642857142857143, recall=0.20300751879699247, fmeasure=0.3354037267080745)
+ROUGE-L: Score(precision=0.9655172413793104, recall=0.208955223880597, fmeasure=0.3435582822085889)
+----------------------------------------
+QA Pair 239:
+ROUGE-1: Score(precision=0.967741935483871, recall=0.20833333333333334, fmeasure=0.3428571428571429)
+ROUGE-2: Score(precision=0.9333333333333333, recall=0.1958041958041958, fmeasure=0.3236994219653179)
+ROUGE-L: Score(precision=0.967741935483871, recall=0.20833333333333334, fmeasure=0.3428571428571429)
+----------------------------------------
+QA Pair 240:
+ROUGE-1: Score(precision=1.0, recall=0.14285714285714285, fmeasure=0.25)
+ROUGE-2: Score(precision=1.0, recall=0.1, fmeasure=0.18181818181818182)
+ROUGE-L: Score(precision=1.0, recall=0.14285714285714285, fmeasure=0.25)
+----------------------------------------
+QA Pair 241:
+ROUGE-1: Score(precision=1.0, recall=0.25, fmeasure=0.4)
+ROUGE-2: Score(precision=1.0, recall=0.22857142857142856, fmeasure=0.3720930232558139)
+ROUGE-L: Score(precision=1.0, recall=0.25, fmeasure=0.4)
+----------------------------------------
+QA Pair 242:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 243:
+ROUGE-1: Score(precision=1.0, recall=0.13043478260869565, fmeasure=0.23076923076923078)
+ROUGE-2: Score(precision=1.0, recall=0.11764705882352941, fmeasure=0.21052631578947367)
+ROUGE-L: Score(precision=1.0, recall=0.13043478260869565, fmeasure=0.23076923076923078)
+----------------------------------------
+QA Pair 244:
+ROUGE-1: Score(precision=0.875, recall=0.21875, fmeasure=0.35)
+ROUGE-2: Score(precision=0.4666666666666667, recall=0.1111111111111111, fmeasure=0.1794871794871795)
+ROUGE-L: Score(precision=0.8125, recall=0.203125, fmeasure=0.325)
+----------------------------------------
+QA Pair 245:
+ROUGE-1: Score(precision=1.0, recall=0.6097560975609756, fmeasure=0.7575757575757575)
+ROUGE-2: Score(precision=1.0, recall=0.6, fmeasure=0.7499999999999999)
+ROUGE-L: Score(precision=1.0, recall=0.6097560975609756, fmeasure=0.7575757575757575)
+----------------------------------------
+QA Pair 246:
+ROUGE-1: Score(precision=1.0, recall=0.15151515151515152, fmeasure=0.2631578947368421)
+ROUGE-2: Score(precision=0.7368421052631579, recall=0.10687022900763359, fmeasure=0.18666666666666668)
+ROUGE-L: Score(precision=0.85, recall=0.12878787878787878, fmeasure=0.2236842105263158)
+----------------------------------------
+QA Pair 247:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 248:
+ROUGE-1: Score(precision=1.0, recall=0.21782178217821782, fmeasure=0.35772357723577236)
+ROUGE-2: Score(precision=0.9047619047619048, recall=0.19, fmeasure=0.3140495867768595)
+ROUGE-L: Score(precision=1.0, recall=0.21782178217821782, fmeasure=0.35772357723577236)
+----------------------------------------
+QA Pair 249:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 250:
+ROUGE-1: Score(precision=1.0, recall=0.24, fmeasure=0.3870967741935484)
+ROUGE-2: Score(precision=1.0, recall=0.20833333333333334, fmeasure=0.3448275862068966)
+ROUGE-L: Score(precision=1.0, recall=0.24, fmeasure=0.3870967741935484)
+----------------------------------------
+QA Pair 251:
+ROUGE-1: Score(precision=1.0, recall=0.28125, fmeasure=0.43902439024390244)
+ROUGE-2: Score(precision=1.0, recall=0.25806451612903225, fmeasure=0.41025641025641024)
+ROUGE-L: Score(precision=1.0, recall=0.28125, fmeasure=0.43902439024390244)
+----------------------------------------
+QA Pair 252:
+ROUGE-1: Score(precision=1.0, recall=0.125, fmeasure=0.2222222222222222)
+ROUGE-2: Score(precision=1.0, recall=0.0967741935483871, fmeasure=0.17647058823529413)
+ROUGE-L: Score(precision=1.0, recall=0.125, fmeasure=0.2222222222222222)
+----------------------------------------
+QA Pair 253:
+ROUGE-1: Score(precision=1.0, recall=0.11564625850340136, fmeasure=0.20731707317073172)
+ROUGE-2: Score(precision=0.875, recall=0.0958904109589041, fmeasure=0.17283950617283952)
+ROUGE-L: Score(precision=0.8823529411764706, recall=0.10204081632653061, fmeasure=0.1829268292682927)
+----------------------------------------
+QA Pair 254:
+ROUGE-1: Score(precision=1.0, recall=0.01, fmeasure=0.019801980198019802)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=0.01, fmeasure=0.019801980198019802)
+----------------------------------------
+QA Pair 255:
+ROUGE-1: Score(precision=1.0, recall=0.037037037037037035, fmeasure=0.07142857142857142)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=0.037037037037037035, fmeasure=0.07142857142857142)
+----------------------------------------
+QA Pair 256:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 257:
+ROUGE-1: Score(precision=1.0, recall=0.16853932584269662, fmeasure=0.28846153846153844)
+ROUGE-2: Score(precision=0.7142857142857143, recall=0.11363636363636363, fmeasure=0.19607843137254902)
+ROUGE-L: Score(precision=0.8, recall=0.1348314606741573, fmeasure=0.23076923076923075)
+----------------------------------------
+QA Pair 258:
+ROUGE-1: Score(precision=1.0, recall=0.11818181818181818, fmeasure=0.21138211382113822)
+ROUGE-2: Score(precision=0.5, recall=0.05504587155963303, fmeasure=0.09917355371900827)
+ROUGE-L: Score(precision=0.8461538461538461, recall=0.1, fmeasure=0.1788617886178862)
+----------------------------------------
+QA Pair 259:
+ROUGE-1: Score(precision=1.0, recall=0.6923076923076923, fmeasure=0.8181818181818181)
+ROUGE-2: Score(precision=1.0, recall=0.68, fmeasure=0.8095238095238095)
+ROUGE-L: Score(precision=1.0, recall=0.6923076923076923, fmeasure=0.8181818181818181)
+----------------------------------------
+QA Pair 260:
+ROUGE-1: Score(precision=1.0, recall=0.05519480519480519, fmeasure=0.10461538461538461)
+ROUGE-2: Score(precision=1.0, recall=0.05211726384364821, fmeasure=0.09907120743034056)
+ROUGE-L: Score(precision=0.9411764705882353, recall=0.05194805194805195, fmeasure=0.09846153846153846)
+----------------------------------------
+QA Pair 261:
+ROUGE-1: Score(precision=1.0, recall=0.06896551724137931, fmeasure=0.12903225806451613)
+ROUGE-2: Score(precision=1.0, recall=0.03571428571428571, fmeasure=0.0689655172413793)
+ROUGE-L: Score(precision=1.0, recall=0.06896551724137931, fmeasure=0.12903225806451613)
+----------------------------------------
+QA Pair 262:
+ROUGE-1: Score(precision=0.6923076923076923, recall=0.02425876010781671, fmeasure=0.046875)
+ROUGE-2: Score(precision=0.5833333333333334, recall=0.01891891891891892, fmeasure=0.03664921465968587)
+ROUGE-L: Score(precision=0.6923076923076923, recall=0.02425876010781671, fmeasure=0.046875)
+----------------------------------------
+QA Pair 263:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 264:
+ROUGE-1: Score(precision=1.0, recall=0.5, fmeasure=0.6666666666666666)
+ROUGE-2: Score(precision=1.0, recall=0.4888888888888889, fmeasure=0.6567164179104478)
+ROUGE-L: Score(precision=1.0, recall=0.5, fmeasure=0.6666666666666666)
+----------------------------------------
+QA Pair 265:
+ROUGE-1: Score(precision=1.0, recall=0.2608695652173913, fmeasure=0.41379310344827586)
+ROUGE-2: Score(precision=1.0, recall=0.24444444444444444, fmeasure=0.39285714285714285)
+ROUGE-L: Score(precision=1.0, recall=0.2608695652173913, fmeasure=0.41379310344827586)
+----------------------------------------
+QA Pair 266:
+ROUGE-1: Score(precision=1.0, recall=0.2962962962962963, fmeasure=0.45714285714285713)
+ROUGE-2: Score(precision=1.0, recall=0.2692307692307692, fmeasure=0.42424242424242425)
+ROUGE-L: Score(precision=1.0, recall=0.2962962962962963, fmeasure=0.45714285714285713)
+----------------------------------------
+QA Pair 267:
+ROUGE-1: Score(precision=1.0, recall=0.4517543859649123, fmeasure=0.622356495468278)
+ROUGE-2: Score(precision=0.9901960784313726, recall=0.44493392070484583, fmeasure=0.6139817629179332)
+ROUGE-L: Score(precision=1.0, recall=0.4517543859649123, fmeasure=0.622356495468278)
+----------------------------------------
+QA Pair 268:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 269:
+ROUGE-1: Score(precision=1.0, recall=0.36363636363636365, fmeasure=0.5333333333333333)
+ROUGE-2: Score(precision=1.0, recall=0.3488372093023256, fmeasure=0.5172413793103449)
+ROUGE-L: Score(precision=1.0, recall=0.36363636363636365, fmeasure=0.5333333333333333)
+----------------------------------------
+QA Pair 270:
+ROUGE-1: Score(precision=1.0, recall=0.04285714285714286, fmeasure=0.0821917808219178)
+ROUGE-2: Score(precision=1.0, recall=0.028985507246376812, fmeasure=0.05633802816901409)
+ROUGE-L: Score(precision=1.0, recall=0.04285714285714286, fmeasure=0.0821917808219178)
+----------------------------------------
+QA Pair 271:
+ROUGE-1: Score(precision=1.0, recall=0.4117647058823529, fmeasure=0.5833333333333334)
+ROUGE-2: Score(precision=1.0, recall=0.375, fmeasure=0.5454545454545454)
+ROUGE-L: Score(precision=1.0, recall=0.4117647058823529, fmeasure=0.5833333333333334)
+----------------------------------------
+QA Pair 272:
+ROUGE-1: Score(precision=1.0, recall=0.0967741935483871, fmeasure=0.17647058823529413)
+ROUGE-2: Score(precision=1.0, recall=0.06666666666666667, fmeasure=0.125)
+ROUGE-L: Score(precision=1.0, recall=0.0967741935483871, fmeasure=0.17647058823529413)
+----------------------------------------
+QA Pair 273:
+ROUGE-1: Score(precision=1.0, recall=0.6170212765957447, fmeasure=0.763157894736842)
+ROUGE-2: Score(precision=1.0, recall=0.6086956521739131, fmeasure=0.7567567567567568)
+ROUGE-L: Score(precision=1.0, recall=0.6170212765957447, fmeasure=0.763157894736842)
+----------------------------------------
+QA Pair 274:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 275:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 276:
+ROUGE-1: Score(precision=0.9411764705882353, recall=0.14035087719298245, fmeasure=0.24427480916030533)
+ROUGE-2: Score(precision=0.9375, recall=0.13274336283185842, fmeasure=0.23255813953488375)
+ROUGE-L: Score(precision=0.9411764705882353, recall=0.14035087719298245, fmeasure=0.24427480916030533)
+----------------------------------------
+QA Pair 277:
+ROUGE-1: Score(precision=1.0, recall=0.425531914893617, fmeasure=0.5970149253731344)
+ROUGE-2: Score(precision=1.0, recall=0.41304347826086957, fmeasure=0.5846153846153846)
+ROUGE-L: Score(precision=1.0, recall=0.425531914893617, fmeasure=0.5970149253731344)
+----------------------------------------
+QA Pair 278:
+ROUGE-1: Score(precision=1.0, recall=0.27586206896551724, fmeasure=0.4324324324324324)
+ROUGE-2: Score(precision=1.0, recall=0.25, fmeasure=0.4)
+ROUGE-L: Score(precision=1.0, recall=0.27586206896551724, fmeasure=0.4324324324324324)
+----------------------------------------
+QA Pair 279:
+ROUGE-1: Score(precision=0.9722222222222222, recall=0.16203703703703703, fmeasure=0.27777777777777773)
+ROUGE-2: Score(precision=0.7714285714285715, recall=0.12558139534883722, fmeasure=0.21600000000000003)
+ROUGE-L: Score(precision=0.8611111111111112, recall=0.14351851851851852, fmeasure=0.24603174603174602)
+----------------------------------------
+QA Pair 280:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 281:
+ROUGE-1: Score(precision=0.8695652173913043, recall=0.21739130434782608, fmeasure=0.3478260869565218)
+ROUGE-2: Score(precision=0.45454545454545453, recall=0.10989010989010989, fmeasure=0.17699115044247787)
+ROUGE-L: Score(precision=0.5652173913043478, recall=0.14130434782608695, fmeasure=0.2260869565217391)
+----------------------------------------
+QA Pair 282:
+ROUGE-1: Score(precision=1.0, recall=0.14925373134328357, fmeasure=0.2597402597402597)
+ROUGE-2: Score(precision=0.4444444444444444, recall=0.06060606060606061, fmeasure=0.10666666666666667)
+ROUGE-L: Score(precision=0.8, recall=0.11940298507462686, fmeasure=0.20779220779220778)
+----------------------------------------
+QA Pair 283:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 284:
+ROUGE-1: Score(precision=1.0, recall=0.3333333333333333, fmeasure=0.5)
+ROUGE-2: Score(precision=1.0, recall=0.32075471698113206, fmeasure=0.4857142857142857)
+ROUGE-L: Score(precision=1.0, recall=0.3333333333333333, fmeasure=0.5)
+----------------------------------------
+QA Pair 285:
+ROUGE-1: Score(precision=1.0, recall=0.13178294573643412, fmeasure=0.23287671232876714)
+ROUGE-2: Score(precision=1.0, recall=0.125, fmeasure=0.2222222222222222)
+ROUGE-L: Score(precision=1.0, recall=0.13178294573643412, fmeasure=0.23287671232876714)
+----------------------------------------
+QA Pair 286:
+ROUGE-1: Score(precision=1.0, recall=0.5357142857142857, fmeasure=0.6976744186046512)
+ROUGE-2: Score(precision=0.9285714285714286, recall=0.48148148148148145, fmeasure=0.6341463414634146)
+ROUGE-L: Score(precision=1.0, recall=0.5357142857142857, fmeasure=0.6976744186046512)
+----------------------------------------
+QA Pair 287:
+ROUGE-1: Score(precision=1.0, recall=0.22560975609756098, fmeasure=0.3681592039800995)
+ROUGE-2: Score(precision=0.9722222222222222, recall=0.2147239263803681, fmeasure=0.35175879396984927)
+ROUGE-L: Score(precision=1.0, recall=0.22560975609756098, fmeasure=0.3681592039800995)
+----------------------------------------
+QA Pair 288:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 289:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 290:
+ROUGE-1: Score(precision=1.0, recall=0.09090909090909091, fmeasure=0.16666666666666669)
+ROUGE-2: Score(precision=1.0, recall=0.0625, fmeasure=0.11764705882352941)
+ROUGE-L: Score(precision=1.0, recall=0.09090909090909091, fmeasure=0.16666666666666669)
+----------------------------------------
+QA Pair 291:
+ROUGE-1: Score(precision=1.0, recall=0.15625, fmeasure=0.2702702702702703)
+ROUGE-2: Score(precision=1.0, recall=0.12903225806451613, fmeasure=0.2285714285714286)
+ROUGE-L: Score(precision=1.0, recall=0.15625, fmeasure=0.2702702702702703)
+----------------------------------------
+QA Pair 292:
+ROUGE-1: Score(precision=1.0, recall=0.3684210526315789, fmeasure=0.5384615384615384)
+ROUGE-2: Score(precision=1.0, recall=0.35135135135135137, fmeasure=0.52)
+ROUGE-L: Score(precision=1.0, recall=0.3684210526315789, fmeasure=0.5384615384615384)
+----------------------------------------
+QA Pair 293:
+ROUGE-1: Score(precision=1.0, recall=0.25225225225225223, fmeasure=0.40287769784172656)
+ROUGE-2: Score(precision=0.9629629629629629, recall=0.23636363636363636, fmeasure=0.3795620437956204)
+ROUGE-L: Score(precision=1.0, recall=0.25225225225225223, fmeasure=0.40287769784172656)
+----------------------------------------
+QA Pair 294:
+ROUGE-1: Score(precision=1.0, recall=0.04, fmeasure=0.07692307692307693)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=0.04, fmeasure=0.07692307692307693)
+----------------------------------------
+QA Pair 295:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 296:
+ROUGE-1: Score(precision=1.0, recall=0.21739130434782608, fmeasure=0.3571428571428571)
+ROUGE-2: Score(precision=1.0, recall=0.18181818181818182, fmeasure=0.3076923076923077)
+ROUGE-L: Score(precision=1.0, recall=0.21739130434782608, fmeasure=0.3571428571428571)
+----------------------------------------
+QA Pair 297:
+ROUGE-1: Score(precision=0.9166666666666666, recall=0.12790697674418605, fmeasure=0.22448979591836732)
+ROUGE-2: Score(precision=0.7272727272727273, recall=0.09411764705882353, fmeasure=0.16666666666666666)
+ROUGE-L: Score(precision=0.75, recall=0.10465116279069768, fmeasure=0.1836734693877551)
+----------------------------------------
+QA Pair 298:
+ROUGE-1: Score(precision=1.0, recall=0.2127659574468085, fmeasure=0.3508771929824561)
+ROUGE-2: Score(precision=1.0, recall=0.1956521739130435, fmeasure=0.32727272727272727)
+ROUGE-L: Score(precision=1.0, recall=0.2127659574468085, fmeasure=0.3508771929824561)
+----------------------------------------
+QA Pair 299:
+ROUGE-1: Score(precision=1.0, recall=0.03177966101694915, fmeasure=0.061601642710472276)
+ROUGE-2: Score(precision=0.5714285714285714, recall=0.016985138004246284, fmeasure=0.03298969072164948)
+ROUGE-L: Score(precision=0.8666666666666667, recall=0.02754237288135593, fmeasure=0.053388090349075976)
+----------------------------------------
+QA Pair 300:
+ROUGE-1: Score(precision=1.0, recall=0.0196078431372549, fmeasure=0.038461538461538464)
+ROUGE-2: Score(precision=1.0, recall=0.009900990099009901, fmeasure=0.0196078431372549)
+ROUGE-L: Score(precision=1.0, recall=0.0196078431372549, fmeasure=0.038461538461538464)
+----------------------------------------
+QA Pair 301:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 302:
+ROUGE-1: Score(precision=1.0, recall=0.21875, fmeasure=0.358974358974359)
+ROUGE-2: Score(precision=1.0, recall=0.1935483870967742, fmeasure=0.3243243243243243)
+ROUGE-L: Score(precision=1.0, recall=0.21875, fmeasure=0.358974358974359)
+----------------------------------------
+QA Pair 303:
+ROUGE-1: Score(precision=1.0, recall=0.27586206896551724, fmeasure=0.4324324324324324)
+ROUGE-2: Score(precision=1.0, recall=0.25, fmeasure=0.4)
+ROUGE-L: Score(precision=1.0, recall=0.27586206896551724, fmeasure=0.4324324324324324)
+----------------------------------------
+QA Pair 304:
+ROUGE-1: Score(precision=1.0, recall=0.10526315789473684, fmeasure=0.1904761904761905)
+ROUGE-2: Score(precision=1.0, recall=0.08108108108108109, fmeasure=0.15)
+ROUGE-L: Score(precision=1.0, recall=0.10526315789473684, fmeasure=0.1904761904761905)
+----------------------------------------
+QA Pair 305:
+ROUGE-1: Score(precision=1.0, recall=0.25, fmeasure=0.4)
+ROUGE-2: Score(precision=0.9629629629629629, recall=0.23423423423423423, fmeasure=0.37681159420289856)
+ROUGE-L: Score(precision=1.0, recall=0.25, fmeasure=0.4)
+----------------------------------------
+QA Pair 306:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 307:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 308:
+ROUGE-1: Score(precision=1.0, recall=0.3170731707317073, fmeasure=0.48148148148148145)
+ROUGE-2: Score(precision=1.0, recall=0.3, fmeasure=0.4615384615384615)
+ROUGE-L: Score(precision=1.0, recall=0.3170731707317073, fmeasure=0.48148148148148145)
+----------------------------------------
+QA Pair 309:
+ROUGE-1: Score(precision=1.0, recall=0.12878787878787878, fmeasure=0.22818791946308722)
+ROUGE-2: Score(precision=1.0, recall=0.12213740458015267, fmeasure=0.21768707482993196)
+ROUGE-L: Score(precision=1.0, recall=0.12878787878787878, fmeasure=0.22818791946308722)
+----------------------------------------
+QA Pair 310:
+ROUGE-1: Score(precision=1.0, recall=0.10377358490566038, fmeasure=0.18803418803418803)
+ROUGE-2: Score(precision=1.0, recall=0.09523809523809523, fmeasure=0.17391304347826084)
+ROUGE-L: Score(precision=1.0, recall=0.10377358490566038, fmeasure=0.18803418803418803)
+----------------------------------------
+QA Pair 311:
+ROUGE-1: Score(precision=1.0, recall=0.03, fmeasure=0.058252427184466014)
+ROUGE-2: Score(precision=0.4, recall=0.010050251256281407, fmeasure=0.019607843137254905)
+ROUGE-L: Score(precision=1.0, recall=0.03, fmeasure=0.058252427184466014)
+----------------------------------------
+QA Pair 312:
+ROUGE-1: Score(precision=1.0, recall=0.0392156862745098, fmeasure=0.07547169811320754)
+ROUGE-2: Score(precision=1.0, recall=0.02, fmeasure=0.0392156862745098)
+ROUGE-L: Score(precision=1.0, recall=0.0392156862745098, fmeasure=0.07547169811320754)
+----------------------------------------
+QA Pair 313:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 314:
+ROUGE-1: Score(precision=1.0, recall=0.3333333333333333, fmeasure=0.5)
+ROUGE-2: Score(precision=1.0, recall=0.3142857142857143, fmeasure=0.4782608695652174)
+ROUGE-L: Score(precision=1.0, recall=0.3333333333333333, fmeasure=0.5)
+----------------------------------------
+QA Pair 315:
+ROUGE-1: Score(precision=0.75, recall=0.16216216216216217, fmeasure=0.26666666666666666)
+ROUGE-2: Score(precision=0.2, recall=0.0410958904109589, fmeasure=0.06818181818181818)
+ROUGE-L: Score(precision=0.5, recall=0.10810810810810811, fmeasure=0.17777777777777778)
+----------------------------------------
+QA Pair 316:
+ROUGE-1: Score(precision=1.0, recall=0.3157894736842105, fmeasure=0.4799999999999999)
+ROUGE-2: Score(precision=1.0, recall=0.2972972972972973, fmeasure=0.4583333333333333)
+ROUGE-L: Score(precision=1.0, recall=0.3157894736842105, fmeasure=0.4799999999999999)
+----------------------------------------
+QA Pair 317:
+ROUGE-1: Score(precision=1.0, recall=0.07192575406032482, fmeasure=0.13419913419913418)
+ROUGE-2: Score(precision=1.0, recall=0.06976744186046512, fmeasure=0.13043478260869565)
+ROUGE-L: Score(precision=1.0, recall=0.07192575406032482, fmeasure=0.13419913419913418)
+----------------------------------------
+QA Pair 318:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 319:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 320:
+ROUGE-1: Score(precision=1.0, recall=0.3333333333333333, fmeasure=0.5)
+ROUGE-2: Score(precision=1.0, recall=0.3142857142857143, fmeasure=0.4782608695652174)
+ROUGE-L: Score(precision=1.0, recall=0.3333333333333333, fmeasure=0.5)
+----------------------------------------
+QA Pair 321:
+ROUGE-1: Score(precision=1.0, recall=0.5348837209302325, fmeasure=0.6969696969696969)
+ROUGE-2: Score(precision=1.0, recall=0.5238095238095238, fmeasure=0.6875000000000001)
+ROUGE-L: Score(precision=1.0, recall=0.5348837209302325, fmeasure=0.6969696969696969)
+----------------------------------------
+QA Pair 322:
+ROUGE-1: Score(precision=1.0, recall=0.09615384615384616, fmeasure=0.17543859649122806)
+ROUGE-2: Score(precision=1.0, recall=0.0784313725490196, fmeasure=0.14545454545454545)
+ROUGE-L: Score(precision=1.0, recall=0.09615384615384616, fmeasure=0.17543859649122806)
+----------------------------------------
+QA Pair 323:
+ROUGE-1: Score(precision=1.0, recall=0.09523809523809523, fmeasure=0.17391304347826084)
+ROUGE-2: Score(precision=0.8235294117647058, recall=0.07446808510638298, fmeasure=0.13658536585365852)
+ROUGE-L: Score(precision=0.8888888888888888, recall=0.08465608465608465, fmeasure=0.15458937198067632)
+----------------------------------------
+QA Pair 324:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 325:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 326:
+ROUGE-1: Score(precision=1.0, recall=0.03684210526315789, fmeasure=0.07106598984771574)
+ROUGE-2: Score(precision=1.0, recall=0.031746031746031744, fmeasure=0.06153846153846154)
+ROUGE-L: Score(precision=1.0, recall=0.03684210526315789, fmeasure=0.07106598984771574)
+----------------------------------------
+QA Pair 327:
+ROUGE-1: Score(precision=1.0, recall=0.27586206896551724, fmeasure=0.4324324324324324)
+ROUGE-2: Score(precision=1.0, recall=0.2631578947368421, fmeasure=0.4166666666666667)
+ROUGE-L: Score(precision=1.0, recall=0.27586206896551724, fmeasure=0.4324324324324324)
+----------------------------------------
+QA Pair 328:
+ROUGE-1: Score(precision=1.0, recall=0.3333333333333333, fmeasure=0.5)
+ROUGE-2: Score(precision=1.0, recall=0.3170731707317073, fmeasure=0.48148148148148145)
+ROUGE-L: Score(precision=1.0, recall=0.3333333333333333, fmeasure=0.5)
+----------------------------------------
+QA Pair 329:
+ROUGE-1: Score(precision=1.0, recall=0.06645569620253164, fmeasure=0.12462908011869436)
+ROUGE-2: Score(precision=0.95, recall=0.06031746031746032, fmeasure=0.11343283582089551)
+ROUGE-L: Score(precision=1.0, recall=0.06645569620253164, fmeasure=0.12462908011869436)
+----------------------------------------
+QA Pair 330:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 331:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 332:
+ROUGE-1: Score(precision=0.875, recall=0.07216494845360824, fmeasure=0.13333333333333333)
+ROUGE-2: Score(precision=0.2857142857142857, recall=0.020833333333333332, fmeasure=0.03883495145631068)
+ROUGE-L: Score(precision=0.75, recall=0.061855670103092786, fmeasure=0.1142857142857143)
+----------------------------------------
+QA Pair 333:
+ROUGE-1: Score(precision=1.0, recall=0.32432432432432434, fmeasure=0.489795918367347)
+ROUGE-2: Score(precision=1.0, recall=0.3150684931506849, fmeasure=0.4791666666666667)
+ROUGE-L: Score(precision=1.0, recall=0.32432432432432434, fmeasure=0.489795918367347)
+----------------------------------------
+QA Pair 334:
+ROUGE-1: Score(precision=1.0, recall=0.5384615384615384, fmeasure=0.7000000000000001)
+ROUGE-2: Score(precision=1.0, recall=0.5, fmeasure=0.6666666666666666)
+ROUGE-L: Score(precision=1.0, recall=0.5384615384615384, fmeasure=0.7000000000000001)
+----------------------------------------
+QA Pair 335:
+ROUGE-1: Score(precision=1.0, recall=0.043478260869565216, fmeasure=0.08333333333333333)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=0.043478260869565216, fmeasure=0.08333333333333333)
+----------------------------------------
+QA Pair 336:
+ROUGE-1: Score(precision=1.0, recall=0.4689655172413793, fmeasure=0.6384976525821596)
+ROUGE-2: Score(precision=0.9253731343283582, recall=0.4305555555555556, fmeasure=0.5876777251184835)
+ROUGE-L: Score(precision=0.9705882352941176, recall=0.45517241379310347, fmeasure=0.6197183098591549)
+----------------------------------------
+QA Pair 337:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 338:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 339:
+ROUGE-1: Score(precision=1.0, recall=0.5454545454545454, fmeasure=0.7058823529411764)
+ROUGE-2: Score(precision=1.0, recall=0.5, fmeasure=0.6666666666666666)
+ROUGE-L: Score(precision=1.0, recall=0.5454545454545454, fmeasure=0.7058823529411764)
+----------------------------------------
+QA Pair 340:
+ROUGE-1: Score(precision=1.0, recall=0.2222222222222222, fmeasure=0.3636363636363636)
+ROUGE-2: Score(precision=0.8666666666666667, recall=0.18309859154929578, fmeasure=0.3023255813953489)
+ROUGE-L: Score(precision=1.0, recall=0.2222222222222222, fmeasure=0.3636363636363636)
+----------------------------------------
+QA Pair 341:
+ROUGE-1: Score(precision=0.6666666666666666, recall=0.46153846153846156, fmeasure=0.5454545454545455)
+ROUGE-2: Score(precision=0.47058823529411764, recall=0.32, fmeasure=0.38095238095238104)
+ROUGE-L: Score(precision=0.6111111111111112, recall=0.4230769230769231, fmeasure=0.5)
+----------------------------------------
+QA Pair 342:
+ROUGE-1: Score(precision=1.0, recall=0.23076923076923078, fmeasure=0.375)
+ROUGE-2: Score(precision=0.7631578947368421, recall=0.17261904761904762, fmeasure=0.28155339805825247)
+ROUGE-L: Score(precision=0.8461538461538461, recall=0.1952662721893491, fmeasure=0.3173076923076923)
+----------------------------------------
+QA Pair 343:
+ROUGE-1: Score(precision=1.0, recall=0.027777777777777776, fmeasure=0.05405405405405406)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=0.027777777777777776, fmeasure=0.05405405405405406)
+----------------------------------------
+QA Pair 344:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 345:
+ROUGE-1: Score(precision=1.0, recall=0.3, fmeasure=0.4615384615384615)
+ROUGE-2: Score(precision=1.0, recall=0.288135593220339, fmeasure=0.4473684210526315)
+ROUGE-L: Score(precision=1.0, recall=0.3, fmeasure=0.4615384615384615)
+----------------------------------------
+QA Pair 346:
+ROUGE-1: Score(precision=1.0, recall=0.11764705882352941, fmeasure=0.21052631578947367)
+ROUGE-2: Score(precision=1.0, recall=0.09090909090909091, fmeasure=0.16666666666666669)
+ROUGE-L: Score(precision=1.0, recall=0.11764705882352941, fmeasure=0.21052631578947367)
+----------------------------------------
+QA Pair 347:
+ROUGE-1: Score(precision=1.0, recall=0.13953488372093023, fmeasure=0.24489795918367346)
+ROUGE-2: Score(precision=1.0, recall=0.11904761904761904, fmeasure=0.21276595744680848)
+ROUGE-L: Score(precision=1.0, recall=0.13953488372093023, fmeasure=0.24489795918367346)
+----------------------------------------
+QA Pair 348:
+ROUGE-1: Score(precision=1.0, recall=0.4129353233830846, fmeasure=0.5845070422535211)
+ROUGE-2: Score(precision=0.9878048780487805, recall=0.405, fmeasure=0.574468085106383)
+ROUGE-L: Score(precision=1.0, recall=0.4129353233830846, fmeasure=0.5845070422535211)
+----------------------------------------
+QA Pair 349:
+ROUGE-1: Score(precision=1.0, recall=0.05555555555555555, fmeasure=0.10526315789473684)
+ROUGE-2: Score(precision=1.0, recall=0.02857142857142857, fmeasure=0.05555555555555556)
+ROUGE-L: Score(precision=1.0, recall=0.05555555555555555, fmeasure=0.10526315789473684)
+----------------------------------------
+QA Pair 350:
+ROUGE-1: Score(precision=1.0, recall=0.014705882352941176, fmeasure=0.028985507246376812)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=0.014705882352941176, fmeasure=0.028985507246376812)
+----------------------------------------
+QA Pair 351:
+ROUGE-1: Score(precision=1.0, recall=0.2682926829268293, fmeasure=0.4230769230769231)
+ROUGE-2: Score(precision=1.0, recall=0.25, fmeasure=0.4)
+ROUGE-L: Score(precision=1.0, recall=0.2682926829268293, fmeasure=0.4230769230769231)
+----------------------------------------
+QA Pair 352:
+ROUGE-1: Score(precision=1.0, recall=0.15384615384615385, fmeasure=0.2666666666666667)
+ROUGE-2: Score(precision=0.6, recall=0.07894736842105263, fmeasure=0.1395348837209302)
+ROUGE-L: Score(precision=1.0, recall=0.15384615384615385, fmeasure=0.2666666666666667)
+----------------------------------------
+QA Pair 353:
+ROUGE-1: Score(precision=1.0, recall=0.11764705882352941, fmeasure=0.21052631578947367)
+ROUGE-2: Score(precision=1.0, recall=0.0625, fmeasure=0.11764705882352941)
+ROUGE-L: Score(precision=1.0, recall=0.11764705882352941, fmeasure=0.21052631578947367)
+----------------------------------------
+QA Pair 354:
+ROUGE-1: Score(precision=1.0, recall=0.07317073170731707, fmeasure=0.13636363636363635)
+ROUGE-2: Score(precision=1.0, recall=0.05, fmeasure=0.09523809523809523)
+ROUGE-L: Score(precision=1.0, recall=0.07317073170731707, fmeasure=0.13636363636363635)
+----------------------------------------
+QA Pair 355:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 356:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 357:
+ROUGE-1: Score(precision=1.0, recall=0.06930693069306931, fmeasure=0.12962962962962962)
+ROUGE-2: Score(precision=1.0, recall=0.06, fmeasure=0.11320754716981131)
+ROUGE-L: Score(precision=1.0, recall=0.06930693069306931, fmeasure=0.12962962962962962)
+----------------------------------------
+QA Pair 358:
+ROUGE-1: Score(precision=0.25, recall=0.043478260869565216, fmeasure=0.07407407407407408)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0.25, recall=0.043478260869565216, fmeasure=0.07407407407407408)
+----------------------------------------
+QA Pair 359:
+ROUGE-1: Score(precision=0.5882352941176471, recall=0.30303030303030304, fmeasure=0.39999999999999997)
+ROUGE-2: Score(precision=0.0625, recall=0.03125, fmeasure=0.041666666666666664)
+ROUGE-L: Score(precision=0.4117647058823529, recall=0.21212121212121213, fmeasure=0.27999999999999997)
+----------------------------------------
+QA Pair 360:
+ROUGE-1: Score(precision=1.0, recall=0.05583756345177665, fmeasure=0.10576923076923077)
+ROUGE-2: Score(precision=1.0, recall=0.05102040816326531, fmeasure=0.09708737864077671)
+ROUGE-L: Score(precision=1.0, recall=0.05583756345177665, fmeasure=0.10576923076923077)
+----------------------------------------
+QA Pair 361:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 362:
+ROUGE-1: Score(precision=1.0, recall=0.36, fmeasure=0.5294117647058824)
+ROUGE-2: Score(precision=1.0, recall=0.3333333333333333, fmeasure=0.5)
+ROUGE-L: Score(precision=1.0, recall=0.36, fmeasure=0.5294117647058824)
+----------------------------------------
+QA Pair 363:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 364:
+ROUGE-1: Score(precision=1.0, recall=0.1694915254237288, fmeasure=0.2898550724637681)
+ROUGE-2: Score(precision=1.0, recall=0.15517241379310345, fmeasure=0.26865671641791045)
+ROUGE-L: Score(precision=1.0, recall=0.1694915254237288, fmeasure=0.2898550724637681)
+----------------------------------------
+QA Pair 365:
+ROUGE-1: Score(precision=1.0, recall=0.6875, fmeasure=0.8148148148148148)
+ROUGE-2: Score(precision=1.0, recall=0.6774193548387096, fmeasure=0.8076923076923077)
+ROUGE-L: Score(precision=1.0, recall=0.6875, fmeasure=0.8148148148148148)
+----------------------------------------
+QA Pair 366:
+ROUGE-1: Score(precision=1.0, recall=0.5, fmeasure=0.6666666666666666)
+ROUGE-2: Score(precision=1.0, recall=0.47368421052631576, fmeasure=0.6428571428571429)
+ROUGE-L: Score(precision=1.0, recall=0.5, fmeasure=0.6666666666666666)
+----------------------------------------
+QA Pair 367:
+ROUGE-1: Score(precision=1.0, recall=0.12164948453608247, fmeasure=0.21691176470588236)
+ROUGE-2: Score(precision=1.0, recall=0.11983471074380166, fmeasure=0.21402214022140223)
+ROUGE-L: Score(precision=1.0, recall=0.12164948453608247, fmeasure=0.21691176470588236)
+----------------------------------------
+QA Pair 368:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 369:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 370:
+ROUGE-1: Score(precision=0.6666666666666666, recall=0.17142857142857143, fmeasure=0.27272727272727276)
+ROUGE-2: Score(precision=0.5, recall=0.11764705882352941, fmeasure=0.19047619047619047)
+ROUGE-L: Score(precision=0.5555555555555556, recall=0.14285714285714285, fmeasure=0.22727272727272727)
+----------------------------------------
+QA Pair 371:
+ROUGE-1: Score(precision=1.0, recall=0.05454545454545454, fmeasure=0.10344827586206896)
+ROUGE-2: Score(precision=1.0, recall=0.037037037037037035, fmeasure=0.07142857142857142)
+ROUGE-L: Score(precision=1.0, recall=0.05454545454545454, fmeasure=0.10344827586206896)
+----------------------------------------
+QA Pair 372:
+ROUGE-1: Score(precision=1.0, recall=0.15384615384615385, fmeasure=0.2666666666666667)
+ROUGE-2: Score(precision=1.0, recall=0.12, fmeasure=0.21428571428571425)
+ROUGE-L: Score(precision=1.0, recall=0.15384615384615385, fmeasure=0.2666666666666667)
+----------------------------------------
+QA Pair 373:
+ROUGE-1: Score(precision=1.0, recall=0.6842105263157895, fmeasure=0.8125000000000001)
+ROUGE-2: Score(precision=1.0, recall=0.6756756756756757, fmeasure=0.8064516129032258)
+ROUGE-L: Score(precision=1.0, recall=0.6842105263157895, fmeasure=0.8125000000000001)
+----------------------------------------
+QA Pair 374:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 375:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 376:
+ROUGE-1: Score(precision=1.0, recall=0.5, fmeasure=0.6666666666666666)
+ROUGE-2: Score(precision=1.0, recall=0.48717948717948717, fmeasure=0.6551724137931034)
+ROUGE-L: Score(precision=1.0, recall=0.5, fmeasure=0.6666666666666666)
+----------------------------------------
+QA Pair 377:
+ROUGE-1: Score(precision=1.0, recall=0.20512820512820512, fmeasure=0.3404255319148936)
+ROUGE-2: Score(precision=1.0, recall=0.19480519480519481, fmeasure=0.32608695652173914)
+ROUGE-L: Score(precision=1.0, recall=0.20512820512820512, fmeasure=0.3404255319148936)
+----------------------------------------
+QA Pair 378:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+----------------------------------------
+QA Pair 379:
+ROUGE-1: Score(precision=1.0, recall=0.35555555555555557, fmeasure=0.5245901639344263)
+ROUGE-2: Score(precision=0.9354838709677419, recall=0.3258426966292135, fmeasure=0.4833333333333334)
+ROUGE-L: Score(precision=1.0, recall=0.35555555555555557, fmeasure=0.5245901639344263)
+----------------------------------------
+QA Pair 380:
+ROUGE-1: Score(precision=1.0, recall=0.0196078431372549, fmeasure=0.038461538461538464)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=0.0196078431372549, fmeasure=0.038461538461538464)
+----------------------------------------
+QA Pair 381:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 382:
+ROUGE-1: Score(precision=1.0, recall=0.14814814814814814, fmeasure=0.25806451612903225)
+ROUGE-2: Score(precision=1.0, recall=0.11538461538461539, fmeasure=0.20689655172413793)
+ROUGE-L: Score(precision=1.0, recall=0.14814814814814814, fmeasure=0.25806451612903225)
+----------------------------------------
+QA Pair 383:
+ROUGE-1: Score(precision=1.0, recall=0.22058823529411764, fmeasure=0.36144578313253006)
+ROUGE-2: Score(precision=0.8571428571428571, recall=0.1791044776119403, fmeasure=0.2962962962962963)
+ROUGE-L: Score(precision=1.0, recall=0.22058823529411764, fmeasure=0.36144578313253006)
+----------------------------------------
+QA Pair 384:
+ROUGE-1: Score(precision=1.0, recall=0.45454545454545453, fmeasure=0.625)
+ROUGE-2: Score(precision=1.0, recall=0.4375, fmeasure=0.6086956521739131)
+ROUGE-L: Score(precision=1.0, recall=0.45454545454545453, fmeasure=0.625)
+----------------------------------------
+QA Pair 385:
+ROUGE-1: Score(precision=0.9166666666666666, recall=0.13095238095238096, fmeasure=0.22916666666666666)
+ROUGE-2: Score(precision=0.7272727272727273, recall=0.0963855421686747, fmeasure=0.17021276595744683)
+ROUGE-L: Score(precision=0.75, recall=0.10714285714285714, fmeasure=0.1875)
+----------------------------------------
+QA Pair 386:
+ROUGE-1: Score(precision=1.0, recall=0.01639344262295082, fmeasure=0.03225806451612903)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=0.01639344262295082, fmeasure=0.03225806451612903)
+----------------------------------------
+QA Pair 387:
+ROUGE-1: Score(precision=1.0, recall=0.125, fmeasure=0.2222222222222222)
+ROUGE-2: Score(precision=1.0, recall=0.0967741935483871, fmeasure=0.17647058823529413)
+ROUGE-L: Score(precision=1.0, recall=0.125, fmeasure=0.2222222222222222)
+----------------------------------------
+QA Pair 388:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 389:
+ROUGE-1: Score(precision=1.0, recall=0.2857142857142857, fmeasure=0.4444444444444445)
+ROUGE-2: Score(precision=1.0, recall=0.23076923076923078, fmeasure=0.375)
+ROUGE-L: Score(precision=1.0, recall=0.2857142857142857, fmeasure=0.4444444444444445)
+----------------------------------------
+QA Pair 390:
+ROUGE-1: Score(precision=1.0, recall=0.10526315789473684, fmeasure=0.1904761904761905)
+ROUGE-2: Score(precision=1.0, recall=0.05555555555555555, fmeasure=0.10526315789473684)
+ROUGE-L: Score(precision=1.0, recall=0.10526315789473684, fmeasure=0.1904761904761905)
+----------------------------------------
+QA Pair 391:
+ROUGE-1: Score(precision=1.0, recall=0.5294117647058824, fmeasure=0.6923076923076924)
+ROUGE-2: Score(precision=1.0, recall=0.5151515151515151, fmeasure=0.6799999999999999)
+ROUGE-L: Score(precision=1.0, recall=0.5294117647058824, fmeasure=0.6923076923076924)
+----------------------------------------
+QA Pair 392:
+ROUGE-1: Score(precision=1.0, recall=0.5, fmeasure=0.6666666666666666)
+ROUGE-2: Score(precision=0.9444444444444444, recall=0.4594594594594595, fmeasure=0.6181818181818182)
+ROUGE-L: Score(precision=1.0, recall=0.5, fmeasure=0.6666666666666666)
+----------------------------------------
+QA Pair 393:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+----------------------------------------
+QA Pair 394:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 395:
+ROUGE-1: Score(precision=1.0, recall=0.23809523809523808, fmeasure=0.3846153846153846)
+ROUGE-2: Score(precision=1.0, recall=0.2, fmeasure=0.33333333333333337)
+ROUGE-L: Score(precision=1.0, recall=0.23809523809523808, fmeasure=0.3846153846153846)
+----------------------------------------
+QA Pair 396:
+ROUGE-1: Score(precision=1.0, recall=0.07964601769911504, fmeasure=0.1475409836065574)
+ROUGE-2: Score(precision=1.0, recall=0.07142857142857142, fmeasure=0.13333333333333333)
+ROUGE-L: Score(precision=0.8888888888888888, recall=0.07079646017699115, fmeasure=0.13114754098360654)
+----------------------------------------
+QA Pair 397:
+ROUGE-1: Score(precision=0.9090909090909091, recall=0.11627906976744186, fmeasure=0.20618556701030924)
+ROUGE-2: Score(precision=0.6, recall=0.07058823529411765, fmeasure=0.12631578947368421)
+ROUGE-L: Score(precision=0.9090909090909091, recall=0.11627906976744186, fmeasure=0.20618556701030924)
+----------------------------------------
+QA Pair 398:
+ROUGE-1: Score(precision=1.0, recall=0.12903225806451613, fmeasure=0.2285714285714286)
+ROUGE-2: Score(precision=1.0, recall=0.11475409836065574, fmeasure=0.2058823529411765)
+ROUGE-L: Score(precision=1.0, recall=0.12903225806451613, fmeasure=0.2285714285714286)
+----------------------------------------
+QA Pair 399:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 400:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 401:
+ROUGE-1: Score(precision=1.0, recall=0.225, fmeasure=0.36734693877551017)
+ROUGE-2: Score(precision=1.0, recall=0.20512820512820512, fmeasure=0.3404255319148936)
+ROUGE-L: Score(precision=1.0, recall=0.225, fmeasure=0.36734693877551017)
+----------------------------------------
+QA Pair 402:
+ROUGE-1: Score(precision=1.0, recall=0.33962264150943394, fmeasure=0.5070422535211268)
+ROUGE-2: Score(precision=1.0, recall=0.3269230769230769, fmeasure=0.4927536231884058)
+ROUGE-L: Score(precision=1.0, recall=0.33962264150943394, fmeasure=0.5070422535211268)
+----------------------------------------
+QA Pair 403:
+ROUGE-1: Score(precision=1.0, recall=0.28703703703703703, fmeasure=0.4460431654676259)
+ROUGE-2: Score(precision=1.0, recall=0.2803738317757009, fmeasure=0.437956204379562)
+ROUGE-L: Score(precision=1.0, recall=0.28703703703703703, fmeasure=0.4460431654676259)
+----------------------------------------
+QA Pair 404:
+ROUGE-1: Score(precision=1.0, recall=0.03333333333333333, fmeasure=0.06451612903225806)
+ROUGE-2: Score(precision=1.0, recall=0.02247191011235955, fmeasure=0.04395604395604395)
+ROUGE-L: Score(precision=1.0, recall=0.03333333333333333, fmeasure=0.06451612903225806)
+----------------------------------------
+QA Pair 405:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 406:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 407:
+ROUGE-1: Score(precision=1.0, recall=0.12903225806451613, fmeasure=0.2285714285714286)
+ROUGE-2: Score(precision=1.0, recall=0.1, fmeasure=0.18181818181818182)
+ROUGE-L: Score(precision=1.0, recall=0.12903225806451613, fmeasure=0.2285714285714286)
+----------------------------------------
+QA Pair 408:
+ROUGE-1: Score(precision=0.9, recall=0.5142857142857142, fmeasure=0.6545454545454545)
+ROUGE-2: Score(precision=0.7894736842105263, recall=0.4411764705882353, fmeasure=0.5660377358490566)
+ROUGE-L: Score(precision=0.85, recall=0.4857142857142857, fmeasure=0.6181818181818183)
+----------------------------------------
+QA Pair 409:
+ROUGE-1: Score(precision=1.0, recall=0.5333333333333333, fmeasure=0.6956521739130436)
+ROUGE-2: Score(precision=1.0, recall=0.5172413793103449, fmeasure=0.6818181818181819)
+ROUGE-L: Score(precision=1.0, recall=0.5333333333333333, fmeasure=0.6956521739130436)
+----------------------------------------
+QA Pair 410:
+ROUGE-1: Score(precision=0.9830508474576272, recall=0.8055555555555556, fmeasure=0.8854961832061069)
+ROUGE-2: Score(precision=0.9655172413793104, recall=0.7887323943661971, fmeasure=0.8682170542635659)
+ROUGE-L: Score(precision=0.9830508474576272, recall=0.8055555555555556, fmeasure=0.8854961832061069)
+----------------------------------------
+QA Pair 411:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 412:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 413:
+ROUGE-1: Score(precision=1.0, recall=0.391304347826087, fmeasure=0.5625)
+ROUGE-2: Score(precision=1.0, recall=0.36363636363636365, fmeasure=0.5333333333333333)
+ROUGE-L: Score(precision=1.0, recall=0.391304347826087, fmeasure=0.5625)
+----------------------------------------
+QA Pair 414:
+ROUGE-1: Score(precision=0.9130434782608695, recall=0.2876712328767123, fmeasure=0.4375)
+ROUGE-2: Score(precision=0.8181818181818182, recall=0.25, fmeasure=0.38297872340425526)
+ROUGE-L: Score(precision=0.8695652173913043, recall=0.273972602739726, fmeasure=0.4166666666666666)
+----------------------------------------
+QA Pair 415:
+ROUGE-1: Score(precision=1.0, recall=0.8666666666666667, fmeasure=0.9285714285714286)
+ROUGE-2: Score(precision=1.0, recall=0.8636363636363636, fmeasure=0.9268292682926829)
+ROUGE-L: Score(precision=1.0, recall=0.8666666666666667, fmeasure=0.9285714285714286)
+----------------------------------------
+QA Pair 416:
+ROUGE-1: Score(precision=1.0, recall=0.20952380952380953, fmeasure=0.3464566929133859)
+ROUGE-2: Score(precision=0.6190476190476191, recall=0.125, fmeasure=0.208)
+ROUGE-L: Score(precision=0.8181818181818182, recall=0.17142857142857143, fmeasure=0.2834645669291339)
+----------------------------------------
+QA Pair 417:
+ROUGE-1: Score(precision=1.0, recall=0.11764705882352941, fmeasure=0.21052631578947367)
+ROUGE-2: Score(precision=1.0, recall=0.0625, fmeasure=0.11764705882352941)
+ROUGE-L: Score(precision=1.0, recall=0.11764705882352941, fmeasure=0.21052631578947367)
+----------------------------------------
+QA Pair 418:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 419:
+ROUGE-1: Score(precision=0.5, recall=0.28, fmeasure=0.358974358974359)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0.32142857142857145, recall=0.18, fmeasure=0.23076923076923075)
+----------------------------------------
+QA Pair 420:
+ROUGE-1: Score(precision=1.0, recall=0.42857142857142855, fmeasure=0.6)
+ROUGE-2: Score(precision=1.0, recall=0.4, fmeasure=0.5714285714285715)
+ROUGE-L: Score(precision=1.0, recall=0.42857142857142855, fmeasure=0.6)
+----------------------------------------
+QA Pair 421:
+ROUGE-1: Score(precision=1.0, recall=0.4074074074074074, fmeasure=0.5789473684210525)
+ROUGE-2: Score(precision=1.0, recall=0.38461538461538464, fmeasure=0.5555555555555556)
+ROUGE-L: Score(precision=1.0, recall=0.4074074074074074, fmeasure=0.5789473684210525)
+----------------------------------------
+QA Pair 422:
+ROUGE-1: Score(precision=0.972972972972973, recall=0.3711340206185567, fmeasure=0.5373134328358209)
+ROUGE-2: Score(precision=0.8333333333333334, recall=0.3125, fmeasure=0.45454545454545453)
+ROUGE-L: Score(precision=0.972972972972973, recall=0.3711340206185567, fmeasure=0.5373134328358209)
+----------------------------------------
+QA Pair 423:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 424:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 425:
+ROUGE-1: Score(precision=1.0, recall=0.35, fmeasure=0.5185185185185185)
+ROUGE-2: Score(precision=1.0, recall=0.3157894736842105, fmeasure=0.4799999999999999)
+ROUGE-L: Score(precision=1.0, recall=0.35, fmeasure=0.5185185185185185)
+----------------------------------------
+QA Pair 426:
+ROUGE-1: Score(precision=1.0, recall=0.375, fmeasure=0.5454545454545454)
+ROUGE-2: Score(precision=1.0, recall=0.3333333333333333, fmeasure=0.5)
+ROUGE-L: Score(precision=1.0, recall=0.375, fmeasure=0.5454545454545454)
+----------------------------------------
+QA Pair 427:
+ROUGE-1: Score(precision=1.0, recall=0.13333333333333333, fmeasure=0.23529411764705882)
+ROUGE-2: Score(precision=1.0, recall=0.10344827586206896, fmeasure=0.1875)
+ROUGE-L: Score(precision=1.0, recall=0.13333333333333333, fmeasure=0.23529411764705882)
+----------------------------------------
+QA Pair 428:
+ROUGE-1: Score(precision=1.0, recall=0.26, fmeasure=0.41269841269841273)
+ROUGE-2: Score(precision=0.92, recall=0.23232323232323232, fmeasure=0.3709677419354839)
+ROUGE-L: Score(precision=1.0, recall=0.26, fmeasure=0.41269841269841273)
+----------------------------------------
+QA Pair 429:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 430:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 431:
+ROUGE-1: Score(precision=1.0, recall=0.18421052631578946, fmeasure=0.3111111111111111)
+ROUGE-2: Score(precision=1.0, recall=0.16216216216216217, fmeasure=0.27906976744186046)
+ROUGE-L: Score(precision=1.0, recall=0.18421052631578946, fmeasure=0.3111111111111111)
+----------------------------------------
+QA Pair 432:
+ROUGE-1: Score(precision=1.0, recall=0.0641025641025641, fmeasure=0.12048192771084336)
+ROUGE-2: Score(precision=1.0, recall=0.05194805194805195, fmeasure=0.09876543209876544)
+ROUGE-L: Score(precision=1.0, recall=0.0641025641025641, fmeasure=0.12048192771084336)
+----------------------------------------
+QA Pair 433:
+ROUGE-1: Score(precision=1.0, recall=0.23255813953488372, fmeasure=0.37735849056603776)
+ROUGE-2: Score(precision=1.0, recall=0.21428571428571427, fmeasure=0.35294117647058826)
+ROUGE-L: Score(precision=1.0, recall=0.23255813953488372, fmeasure=0.37735849056603776)
+----------------------------------------
+QA Pair 434:
+ROUGE-1: Score(precision=0.9, recall=0.09, fmeasure=0.16363636363636364)
+ROUGE-2: Score(precision=0.5555555555555556, recall=0.050505050505050504, fmeasure=0.09259259259259259)
+ROUGE-L: Score(precision=0.7, recall=0.07, fmeasure=0.1272727272727273)
+----------------------------------------
+QA Pair 435:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 436:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 437:
+ROUGE-1: Score(precision=1.0, recall=0.325, fmeasure=0.4905660377358491)
+ROUGE-2: Score(precision=1.0, recall=0.3076923076923077, fmeasure=0.47058823529411764)
+ROUGE-L: Score(precision=1.0, recall=0.325, fmeasure=0.4905660377358491)
+----------------------------------------
+QA Pair 438:
+ROUGE-1: Score(precision=1.0, recall=0.22, fmeasure=0.36065573770491804)
+ROUGE-2: Score(precision=1.0, recall=0.20408163265306123, fmeasure=0.3389830508474576)
+ROUGE-L: Score(precision=1.0, recall=0.22, fmeasure=0.36065573770491804)
+----------------------------------------
+QA Pair 439:
+ROUGE-1: Score(precision=1.0, recall=0.1509433962264151, fmeasure=0.26229508196721313)
+ROUGE-2: Score(precision=1.0, recall=0.1346153846153846, fmeasure=0.23728813559322035)
+ROUGE-L: Score(precision=1.0, recall=0.1509433962264151, fmeasure=0.26229508196721313)
+----------------------------------------
+QA Pair 440:
+ROUGE-1: Score(precision=1.0, recall=0.07407407407407407, fmeasure=0.13793103448275862)
+ROUGE-2: Score(precision=1.0, recall=0.07063197026022305, fmeasure=0.13194444444444448)
+ROUGE-L: Score(precision=1.0, recall=0.07407407407407407, fmeasure=0.13793103448275862)
+----------------------------------------
+QA Pair 441:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 442:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 443:
+ROUGE-1: Score(precision=1.0, recall=0.3888888888888889, fmeasure=0.56)
+ROUGE-2: Score(precision=1.0, recall=0.35294117647058826, fmeasure=0.5217391304347826)
+ROUGE-L: Score(precision=1.0, recall=0.3888888888888889, fmeasure=0.56)
+----------------------------------------
+QA Pair 444:
+ROUGE-1: Score(precision=1.0, recall=0.07692307692307693, fmeasure=0.14285714285714288)
+ROUGE-2: Score(precision=1.0, recall=0.058823529411764705, fmeasure=0.1111111111111111)
+ROUGE-L: Score(precision=1.0, recall=0.07692307692307693, fmeasure=0.14285714285714288)
+----------------------------------------
+QA Pair 445:
+ROUGE-1: Score(precision=1.0, recall=0.16666666666666666, fmeasure=0.2857142857142857)
+ROUGE-2: Score(precision=1.0, recall=0.11764705882352941, fmeasure=0.21052631578947367)
+ROUGE-L: Score(precision=1.0, recall=0.16666666666666666, fmeasure=0.2857142857142857)
+----------------------------------------
+QA Pair 446:
+ROUGE-1: Score(precision=0.75, recall=0.05357142857142857, fmeasure=0.09999999999999999)
+ROUGE-2: Score(precision=0.6666666666666666, recall=0.03636363636363636, fmeasure=0.06896551724137931)
+ROUGE-L: Score(precision=0.75, recall=0.05357142857142857, fmeasure=0.09999999999999999)
+----------------------------------------
+QA Pair 447:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 448:
+ROUGE-1: Score(precision=1.0, recall=0.16666666666666666, fmeasure=0.2857142857142857)
+ROUGE-2: Score(precision=1.0, recall=0.14285714285714285, fmeasure=0.25)
+ROUGE-L: Score(precision=1.0, recall=0.16666666666666666, fmeasure=0.2857142857142857)
+----------------------------------------
+QA Pair 449:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 450:
+ROUGE-1: Score(precision=1.0, recall=0.2777777777777778, fmeasure=0.4347826086956522)
+ROUGE-2: Score(precision=1.0, recall=0.2676056338028169, fmeasure=0.42222222222222217)
+ROUGE-L: Score(precision=1.0, recall=0.2777777777777778, fmeasure=0.4347826086956522)
+----------------------------------------
+QA Pair 451:
+ROUGE-1: Score(precision=1.0, recall=0.19607843137254902, fmeasure=0.3278688524590164)
+ROUGE-2: Score(precision=1.0, recall=0.18, fmeasure=0.3050847457627119)
+ROUGE-L: Score(precision=1.0, recall=0.19607843137254902, fmeasure=0.3278688524590164)
+----------------------------------------
+QA Pair 452:
+ROUGE-1: Score(precision=1.0, recall=0.08333333333333333, fmeasure=0.15384615384615385)
+ROUGE-2: Score(precision=1.0, recall=0.07042253521126761, fmeasure=0.13157894736842107)
+ROUGE-L: Score(precision=1.0, recall=0.08333333333333333, fmeasure=0.15384615384615385)
+----------------------------------------
+QA Pair 453:
+ROUGE-1: Score(precision=1.0, recall=0.3448275862068966, fmeasure=0.5128205128205129)
+ROUGE-2: Score(precision=0.9473684210526315, recall=0.3157894736842105, fmeasure=0.47368421052631576)
+ROUGE-L: Score(precision=1.0, recall=0.3448275862068966, fmeasure=0.5128205128205129)
+----------------------------------------
+QA Pair 454:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 455:
+ROUGE-1: Score(precision=1.0, recall=0.03571428571428571, fmeasure=0.0689655172413793)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=0.03571428571428571, fmeasure=0.0689655172413793)
+----------------------------------------
+QA Pair 456:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 457:
+ROUGE-1: Score(precision=1.0, recall=0.6071428571428571, fmeasure=0.7555555555555554)
+ROUGE-2: Score(precision=1.0, recall=0.5925925925925926, fmeasure=0.7441860465116279)
+ROUGE-L: Score(precision=1.0, recall=0.6071428571428571, fmeasure=0.7555555555555554)
+----------------------------------------
+QA Pair 458:
+ROUGE-1: Score(precision=1.0, recall=0.5945945945945946, fmeasure=0.7457627118644068)
+ROUGE-2: Score(precision=1.0, recall=0.5833333333333334, fmeasure=0.7368421052631579)
+ROUGE-L: Score(precision=1.0, recall=0.5945945945945946, fmeasure=0.7457627118644068)
+----------------------------------------
+QA Pair 459:
+ROUGE-1: Score(precision=1.0, recall=0.27419354838709675, fmeasure=0.430379746835443)
+ROUGE-2: Score(precision=0.875, recall=0.22950819672131148, fmeasure=0.36363636363636365)
+ROUGE-L: Score(precision=1.0, recall=0.27419354838709675, fmeasure=0.430379746835443)
+----------------------------------------
+QA Pair 460:
+ROUGE-1: Score(precision=1.0, recall=0.0743801652892562, fmeasure=0.13846153846153847)
+ROUGE-2: Score(precision=0.7058823529411765, recall=0.04979253112033195, fmeasure=0.09302325581395347)
+ROUGE-L: Score(precision=0.8333333333333334, recall=0.06198347107438017, fmeasure=0.11538461538461538)
+----------------------------------------
+QA Pair 461:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 462:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 463:
+ROUGE-1: Score(precision=1.0, recall=0.04, fmeasure=0.07692307692307693)
+ROUGE-2: Score(precision=0.5, recall=0.013513513513513514, fmeasure=0.026315789473684213)
+ROUGE-L: Score(precision=1.0, recall=0.04, fmeasure=0.07692307692307693)
+----------------------------------------
+QA Pair 464:
+ROUGE-1: Score(precision=1.0, recall=0.09777777777777778, fmeasure=0.17813765182186236)
+ROUGE-2: Score(precision=1.0, recall=0.09375, fmeasure=0.17142857142857143)
+ROUGE-L: Score(precision=1.0, recall=0.09777777777777778, fmeasure=0.17813765182186236)
+----------------------------------------
+QA Pair 465:
+ROUGE-1: Score(precision=1.0, recall=0.26666666666666666, fmeasure=0.4210526315789474)
+ROUGE-2: Score(precision=1.0, recall=0.21428571428571427, fmeasure=0.35294117647058826)
+ROUGE-L: Score(precision=1.0, recall=0.26666666666666666, fmeasure=0.4210526315789474)
+----------------------------------------
+QA Pair 466:
+ROUGE-1: Score(precision=1.0, recall=0.06756756756756757, fmeasure=0.12658227848101267)
+ROUGE-2: Score(precision=0.75, recall=0.0410958904109589, fmeasure=0.07792207792207792)
+ROUGE-L: Score(precision=1.0, recall=0.06756756756756757, fmeasure=0.12658227848101267)
+----------------------------------------
+QA Pair 467:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 468:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 469:
+ROUGE-1: Score(precision=1.0, recall=0.2, fmeasure=0.33333333333333337)
+ROUGE-2: Score(precision=1.0, recall=0.15789473684210525, fmeasure=0.2727272727272727)
+ROUGE-L: Score(precision=1.0, recall=0.2, fmeasure=0.33333333333333337)
+----------------------------------------
+QA Pair 470:
+ROUGE-1: Score(precision=1.0, recall=0.36363636363636365, fmeasure=0.5333333333333333)
+ROUGE-2: Score(precision=1.0, recall=0.3, fmeasure=0.4615384615384615)
+ROUGE-L: Score(precision=1.0, recall=0.36363636363636365, fmeasure=0.5333333333333333)
+----------------------------------------
+QA Pair 471:
+ROUGE-1: Score(precision=1.0, recall=0.42857142857142855, fmeasure=0.6)
+ROUGE-2: Score(precision=1.0, recall=0.38461538461538464, fmeasure=0.5555555555555556)
+ROUGE-L: Score(precision=1.0, recall=0.42857142857142855, fmeasure=0.6)
+----------------------------------------
+QA Pair 472:
+ROUGE-1: Score(precision=1.0, recall=0.28, fmeasure=0.43750000000000006)
+ROUGE-2: Score(precision=0.8888888888888888, recall=0.24242424242424243, fmeasure=0.38095238095238093)
+ROUGE-L: Score(precision=0.9285714285714286, recall=0.26, fmeasure=0.40625)
+----------------------------------------
+QA Pair 473:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 474:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 475:
+ROUGE-1: Score(precision=1.0, recall=0.18421052631578946, fmeasure=0.3111111111111111)
+ROUGE-2: Score(precision=0.8333333333333334, recall=0.13513513513513514, fmeasure=0.23255813953488372)
+ROUGE-L: Score(precision=1.0, recall=0.18421052631578946, fmeasure=0.3111111111111111)
+----------------------------------------
+QA Pair 476:
+ROUGE-1: Score(precision=1.0, recall=0.14516129032258066, fmeasure=0.2535211267605634)
+ROUGE-2: Score(precision=1.0, recall=0.13114754098360656, fmeasure=0.23188405797101452)
+ROUGE-L: Score(precision=1.0, recall=0.14516129032258066, fmeasure=0.2535211267605634)
+----------------------------------------
+QA Pair 477:
+ROUGE-1: Score(precision=1.0, recall=0.07042253521126761, fmeasure=0.13157894736842107)
+ROUGE-2: Score(precision=1.0, recall=0.05714285714285714, fmeasure=0.1081081081081081)
+ROUGE-L: Score(precision=1.0, recall=0.07042253521126761, fmeasure=0.13157894736842107)
+----------------------------------------
+QA Pair 478:
+ROUGE-1: Score(precision=1.0, recall=0.03333333333333333, fmeasure=0.06451612903225806)
+ROUGE-2: Score(precision=0.8, recall=0.0223463687150838, fmeasure=0.04347826086956522)
+ROUGE-L: Score(precision=1.0, recall=0.03333333333333333, fmeasure=0.06451612903225806)
+----------------------------------------
+QA Pair 479:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 480:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 481:
+ROUGE-1: Score(precision=1.0, recall=0.3448275862068966, fmeasure=0.5128205128205129)
+ROUGE-2: Score(precision=1.0, recall=0.32142857142857145, fmeasure=0.4864864864864865)
+ROUGE-L: Score(precision=1.0, recall=0.3448275862068966, fmeasure=0.5128205128205129)
+----------------------------------------
+QA Pair 482:
+ROUGE-1: Score(precision=1.0, recall=0.25, fmeasure=0.4)
+ROUGE-2: Score(precision=1.0, recall=0.21052631578947367, fmeasure=0.34782608695652173)
+ROUGE-L: Score(precision=1.0, recall=0.25, fmeasure=0.4)
+----------------------------------------
+QA Pair 483:
+ROUGE-1: Score(precision=1.0, recall=0.5, fmeasure=0.6666666666666666)
+ROUGE-2: Score(precision=1.0, recall=0.48148148148148145, fmeasure=0.65)
+ROUGE-L: Score(precision=1.0, recall=0.5, fmeasure=0.6666666666666666)
+----------------------------------------
+QA Pair 484:
+ROUGE-1: Score(precision=1.0, recall=0.3275862068965517, fmeasure=0.49350649350649356)
+ROUGE-2: Score(precision=0.8888888888888888, recall=0.2807017543859649, fmeasure=0.4266666666666667)
+ROUGE-L: Score(precision=0.9473684210526315, recall=0.3103448275862069, fmeasure=0.4675324675324675)
+----------------------------------------
+QA Pair 485:
+ROUGE-1: Score(precision=1.0, recall=0.06060606060606061, fmeasure=0.1142857142857143)
+ROUGE-2: Score(precision=1.0, recall=0.03125, fmeasure=0.06060606060606061)
+ROUGE-L: Score(precision=1.0, recall=0.06060606060606061, fmeasure=0.1142857142857143)
+----------------------------------------
+QA Pair 486:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 487:
+ROUGE-1: Score(precision=1.0, recall=0.6551724137931034, fmeasure=0.7916666666666666)
+ROUGE-2: Score(precision=1.0, recall=0.6428571428571429, fmeasure=0.782608695652174)
+ROUGE-L: Score(precision=1.0, recall=0.6551724137931034, fmeasure=0.7916666666666666)
+----------------------------------------
+QA Pair 488:
+ROUGE-1: Score(precision=1.0, recall=0.19230769230769232, fmeasure=0.32258064516129037)
+ROUGE-2: Score(precision=1.0, recall=0.16, fmeasure=0.2758620689655173)
+ROUGE-L: Score(precision=1.0, recall=0.19230769230769232, fmeasure=0.32258064516129037)
+----------------------------------------
+QA Pair 489:
+ROUGE-1: Score(precision=1.0, recall=0.3611111111111111, fmeasure=0.5306122448979591)
+ROUGE-2: Score(precision=1.0, recall=0.34285714285714286, fmeasure=0.5106382978723404)
+ROUGE-L: Score(precision=1.0, recall=0.3611111111111111, fmeasure=0.5306122448979591)
+----------------------------------------
+QA Pair 490:
+ROUGE-1: Score(precision=0.9090909090909091, recall=0.17699115044247787, fmeasure=0.29629629629629634)
+ROUGE-2: Score(precision=0.6190476190476191, recall=0.11607142857142858, fmeasure=0.1954887218045113)
+ROUGE-L: Score(precision=0.6818181818181818, recall=0.13274336283185842, fmeasure=0.22222222222222224)
+----------------------------------------
+QA Pair 491:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 492:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 493:
+ROUGE-1: Score(precision=1.0, recall=0.6206896551724138, fmeasure=0.7659574468085107)
+ROUGE-2: Score(precision=1.0, recall=0.6071428571428571, fmeasure=0.7555555555555554)
+ROUGE-L: Score(precision=1.0, recall=0.6206896551724138, fmeasure=0.7659574468085107)
+----------------------------------------
+QA Pair 494:
+ROUGE-1: Score(precision=1.0, recall=0.13043478260869565, fmeasure=0.23076923076923078)
+ROUGE-2: Score(precision=1.0, recall=0.09090909090909091, fmeasure=0.16666666666666669)
+ROUGE-L: Score(precision=1.0, recall=0.13043478260869565, fmeasure=0.23076923076923078)
+----------------------------------------
+QA Pair 495:
+ROUGE-1: Score(precision=1.0, recall=0.125, fmeasure=0.2222222222222222)
+ROUGE-2: Score(precision=1.0, recall=0.08695652173913043, fmeasure=0.16)
+ROUGE-L: Score(precision=1.0, recall=0.125, fmeasure=0.2222222222222222)
+----------------------------------------
+QA Pair 496:
+ROUGE-1: Score(precision=1.0, recall=0.05429864253393665, fmeasure=0.10300429184549356)
+ROUGE-2: Score(precision=0.8695652173913043, recall=0.045351473922902494, fmeasure=0.08620689655172414)
+ROUGE-L: Score(precision=0.9583333333333334, recall=0.05203619909502263, fmeasure=0.09871244635193134)
+----------------------------------------
+QA Pair 497:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 498:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 499:
+ROUGE-1: Score(precision=1.0, recall=0.3888888888888889, fmeasure=0.56)
+ROUGE-2: Score(precision=1.0, recall=0.37142857142857144, fmeasure=0.5416666666666666)
+ROUGE-L: Score(precision=1.0, recall=0.3888888888888889, fmeasure=0.56)
+----------------------------------------
+QA Pair 500:
+ROUGE-1: Score(precision=1.0, recall=0.3191489361702128, fmeasure=0.48387096774193555)
+ROUGE-2: Score(precision=1.0, recall=0.30434782608695654, fmeasure=0.4666666666666667)
+ROUGE-L: Score(precision=1.0, recall=0.3191489361702128, fmeasure=0.48387096774193555)
+----------------------------------------
+QA Pair 501:
+ROUGE-1: Score(precision=1.0, recall=0.2702702702702703, fmeasure=0.4255319148936171)
+ROUGE-2: Score(precision=1.0, recall=0.25, fmeasure=0.4)
+ROUGE-L: Score(precision=1.0, recall=0.2702702702702703, fmeasure=0.4255319148936171)
+----------------------------------------
+QA Pair 502:
+ROUGE-1: Score(precision=1.0, recall=0.06079664570230608, fmeasure=0.11462450592885375)
+ROUGE-2: Score(precision=0.8214285714285714, recall=0.04831932773109244, fmeasure=0.09126984126984126)
+ROUGE-L: Score(precision=0.9655172413793104, recall=0.05870020964360587, fmeasure=0.1106719367588933)
+----------------------------------------
+QA Pair 503:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 504:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 505:
+ROUGE-1: Score(precision=1.0, recall=0.4444444444444444, fmeasure=0.6153846153846153)
+ROUGE-2: Score(precision=1.0, recall=0.42857142857142855, fmeasure=0.6)
+ROUGE-L: Score(precision=1.0, recall=0.4444444444444444, fmeasure=0.6153846153846153)
+----------------------------------------
+QA Pair 506:
+ROUGE-1: Score(precision=1.0, recall=0.46153846153846156, fmeasure=0.631578947368421)
+ROUGE-2: Score(precision=1.0, recall=0.4473684210526316, fmeasure=0.6181818181818182)
+ROUGE-L: Score(precision=1.0, recall=0.46153846153846156, fmeasure=0.631578947368421)
+----------------------------------------
+QA Pair 507:
+ROUGE-1: Score(precision=1.0, recall=0.23076923076923078, fmeasure=0.375)
+ROUGE-2: Score(precision=1.0, recall=0.2, fmeasure=0.33333333333333337)
+ROUGE-L: Score(precision=1.0, recall=0.23076923076923078, fmeasure=0.375)
+----------------------------------------
+QA Pair 508:
+ROUGE-1: Score(precision=1.0, recall=0.04381846635367762, fmeasure=0.08395802098950525)
+ROUGE-2: Score(precision=1.0, recall=0.04231974921630094, fmeasure=0.08120300751879699)
+ROUGE-L: Score(precision=1.0, recall=0.04381846635367762, fmeasure=0.08395802098950525)
+----------------------------------------
+QA Pair 509:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 510:
+ROUGE-1: Score(precision=1.0, recall=0.12962962962962962, fmeasure=0.22950819672131148)
+ROUGE-2: Score(precision=1.0, recall=0.11320754716981132, fmeasure=0.2033898305084746)
+ROUGE-L: Score(precision=1.0, recall=0.12962962962962962, fmeasure=0.22950819672131148)
+----------------------------------------
+QA Pair 511:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 512:
+ROUGE-1: Score(precision=1.0, recall=0.43243243243243246, fmeasure=0.6037735849056604)
+ROUGE-2: Score(precision=1.0, recall=0.4166666666666667, fmeasure=0.5882352941176471)
+ROUGE-L: Score(precision=1.0, recall=0.43243243243243246, fmeasure=0.6037735849056604)
+----------------------------------------
+QA Pair 513:
+ROUGE-1: Score(precision=1.0, recall=0.15625, fmeasure=0.2702702702702703)
+ROUGE-2: Score(precision=1.0, recall=0.12903225806451613, fmeasure=0.2285714285714286)
+ROUGE-L: Score(precision=1.0, recall=0.15625, fmeasure=0.2702702702702703)
+----------------------------------------
+QA Pair 514:
+ROUGE-1: Score(precision=1.0, recall=0.16666666666666666, fmeasure=0.2857142857142857)
+ROUGE-2: Score(precision=1.0, recall=0.13793103448275862, fmeasure=0.2424242424242424)
+ROUGE-L: Score(precision=1.0, recall=0.16666666666666666, fmeasure=0.2857142857142857)
+----------------------------------------
+QA Pair 515:
+ROUGE-1: Score(precision=1.0, recall=0.0502283105022831, fmeasure=0.09565217391304347)
+ROUGE-2: Score(precision=0.9, recall=0.04128440366972477, fmeasure=0.07894736842105264)
+ROUGE-L: Score(precision=1.0, recall=0.0502283105022831, fmeasure=0.09565217391304347)
+----------------------------------------
+QA Pair 516:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 517:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 518:
+ROUGE-1: Score(precision=1.0, recall=0.3695652173913043, fmeasure=0.5396825396825397)
+ROUGE-2: Score(precision=1.0, recall=0.35555555555555557, fmeasure=0.5245901639344263)
+ROUGE-L: Score(precision=1.0, recall=0.3695652173913043, fmeasure=0.5396825396825397)
+----------------------------------------
+QA Pair 519:
+ROUGE-1: Score(precision=1.0, recall=0.40404040404040403, fmeasure=0.5755395683453237)
+ROUGE-2: Score(precision=1.0, recall=0.3979591836734694, fmeasure=0.5693430656934306)
+ROUGE-L: Score(precision=1.0, recall=0.40404040404040403, fmeasure=0.5755395683453237)
+----------------------------------------
+QA Pair 520:
+ROUGE-1: Score(precision=1.0, recall=0.13725490196078433, fmeasure=0.24137931034482762)
+ROUGE-2: Score(precision=1.0, recall=0.12, fmeasure=0.21428571428571425)
+ROUGE-L: Score(precision=1.0, recall=0.13725490196078433, fmeasure=0.24137931034482762)
+----------------------------------------
+QA Pair 521:
+ROUGE-1: Score(precision=1.0, recall=0.04, fmeasure=0.07692307692307693)
+ROUGE-2: Score(precision=1.0, recall=0.03773584905660377, fmeasure=0.07272727272727272)
+ROUGE-L: Score(precision=1.0, recall=0.04, fmeasure=0.07692307692307693)
+----------------------------------------
+QA Pair 522:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 523:
+ROUGE-1: Score(precision=0.8, recall=0.4897959183673469, fmeasure=0.6075949367088609)
+ROUGE-2: Score(precision=0.5862068965517241, recall=0.3541666666666667, fmeasure=0.4415584415584416)
+ROUGE-L: Score(precision=0.6666666666666666, recall=0.40816326530612246, fmeasure=0.5063291139240507)
+----------------------------------------
+QA Pair 524:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 525:
+ROUGE-1: Score(precision=1.0, recall=0.4146341463414634, fmeasure=0.5862068965517241)
+ROUGE-2: Score(precision=1.0, recall=0.4, fmeasure=0.5714285714285715)
+ROUGE-L: Score(precision=1.0, recall=0.4146341463414634, fmeasure=0.5862068965517241)
+----------------------------------------
+QA Pair 526:
+ROUGE-1: Score(precision=0.9333333333333333, recall=0.32558139534883723, fmeasure=0.4827586206896553)
+ROUGE-2: Score(precision=0.8571428571428571, recall=0.2857142857142857, fmeasure=0.42857142857142855)
+ROUGE-L: Score(precision=0.8666666666666667, recall=0.3023255813953488, fmeasure=0.44827586206896547)
+----------------------------------------
+QA Pair 527:
+ROUGE-1: Score(precision=1.0, recall=0.07058823529411765, fmeasure=0.13186813186813187)
+ROUGE-2: Score(precision=1.0, recall=0.05952380952380952, fmeasure=0.11235955056179775)
+ROUGE-L: Score(precision=1.0, recall=0.07058823529411765, fmeasure=0.13186813186813187)
+----------------------------------------
+QA Pair 528:
+ROUGE-1: Score(precision=0.9473684210526315, recall=0.2571428571428571, fmeasure=0.4044943820224719)
+ROUGE-2: Score(precision=0.7777777777777778, recall=0.2028985507246377, fmeasure=0.3218390804597701)
+ROUGE-L: Score(precision=0.8947368421052632, recall=0.24285714285714285, fmeasure=0.38202247191011235)
+----------------------------------------
+QA Pair 529:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 530:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 531:
+ROUGE-1: Score(precision=1.0, recall=0.25, fmeasure=0.4)
+ROUGE-2: Score(precision=1.0, recall=0.21052631578947367, fmeasure=0.34782608695652173)
+ROUGE-L: Score(precision=1.0, recall=0.25, fmeasure=0.4)
+----------------------------------------
+QA Pair 532:
+ROUGE-1: Score(precision=1.0, recall=0.3902439024390244, fmeasure=0.5614035087719299)
+ROUGE-2: Score(precision=1.0, recall=0.375, fmeasure=0.5454545454545454)
+ROUGE-L: Score(precision=1.0, recall=0.3902439024390244, fmeasure=0.5614035087719299)
+----------------------------------------
+QA Pair 533:
+ROUGE-1: Score(precision=1.0, recall=0.4444444444444444, fmeasure=0.6153846153846153)
+ROUGE-2: Score(precision=1.0, recall=0.4117647058823529, fmeasure=0.5833333333333334)
+ROUGE-L: Score(precision=1.0, recall=0.4444444444444444, fmeasure=0.6153846153846153)
+----------------------------------------
+QA Pair 534:
+ROUGE-1: Score(precision=0.7647058823529411, recall=0.1326530612244898, fmeasure=0.22608695652173913)
+ROUGE-2: Score(precision=0.5, recall=0.08247422680412371, fmeasure=0.1415929203539823)
+ROUGE-L: Score(precision=0.7647058823529411, recall=0.1326530612244898, fmeasure=0.22608695652173913)
+----------------------------------------
+QA Pair 535:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 536:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 537:
+ROUGE-1: Score(precision=1.0, recall=0.5555555555555556, fmeasure=0.7142857142857143)
+ROUGE-2: Score(precision=1.0, recall=0.5384615384615384, fmeasure=0.7000000000000001)
+ROUGE-L: Score(precision=1.0, recall=0.5555555555555556, fmeasure=0.7142857142857143)
+----------------------------------------
+QA Pair 538:
+ROUGE-1: Score(precision=1.0, recall=0.19047619047619047, fmeasure=0.32)
+ROUGE-2: Score(precision=1.0, recall=0.17073170731707318, fmeasure=0.2916666666666667)
+ROUGE-L: Score(precision=1.0, recall=0.19047619047619047, fmeasure=0.32)
+----------------------------------------
+QA Pair 539:
+ROUGE-1: Score(precision=1.0, recall=0.18181818181818182, fmeasure=0.3076923076923077)
+ROUGE-2: Score(precision=1.0, recall=0.15625, fmeasure=0.2702702702702703)
+ROUGE-L: Score(precision=1.0, recall=0.18181818181818182, fmeasure=0.3076923076923077)
+----------------------------------------
+QA Pair 540:
+ROUGE-1: Score(precision=1.0, recall=0.16176470588235295, fmeasure=0.27848101265822783)
+ROUGE-2: Score(precision=1.0, recall=0.15763546798029557, fmeasure=0.2723404255319149)
+ROUGE-L: Score(precision=1.0, recall=0.16176470588235295, fmeasure=0.27848101265822783)
+----------------------------------------
+QA Pair 541:
+ROUGE-1: Score(precision=1.0, recall=0.06896551724137931, fmeasure=0.12903225806451613)
+ROUGE-2: Score(precision=0.6, recall=0.03488372093023256, fmeasure=0.06593406593406594)
+ROUGE-L: Score(precision=0.8333333333333334, recall=0.05747126436781609, fmeasure=0.1075268817204301)
+----------------------------------------
+QA Pair 542:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 543:
+ROUGE-1: Score(precision=1.0, recall=0.3125, fmeasure=0.47619047619047616)
+ROUGE-2: Score(precision=0.75, recall=0.2, fmeasure=0.31578947368421056)
+ROUGE-L: Score(precision=1.0, recall=0.3125, fmeasure=0.47619047619047616)
+----------------------------------------
+QA Pair 544:
+ROUGE-1: Score(precision=1.0, recall=0.13432835820895522, fmeasure=0.2368421052631579)
+ROUGE-2: Score(precision=0.875, recall=0.10606060606060606, fmeasure=0.1891891891891892)
+ROUGE-L: Score(precision=0.8888888888888888, recall=0.11940298507462686, fmeasure=0.2105263157894737)
+----------------------------------------
+QA Pair 545:
+ROUGE-1: Score(precision=1.0, recall=0.30952380952380953, fmeasure=0.4727272727272727)
+ROUGE-2: Score(precision=1.0, recall=0.2926829268292683, fmeasure=0.45283018867924524)
+ROUGE-L: Score(precision=1.0, recall=0.30952380952380953, fmeasure=0.4727272727272727)
+----------------------------------------
+QA Pair 546:
+ROUGE-1: Score(precision=1.0, recall=0.13385826771653545, fmeasure=0.23611111111111113)
+ROUGE-2: Score(precision=0.875, recall=0.1111111111111111, fmeasure=0.19718309859154926)
+ROUGE-L: Score(precision=1.0, recall=0.13385826771653545, fmeasure=0.23611111111111113)
+----------------------------------------
+QA Pair 547:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 548:
+ROUGE-1: Score(precision=1.0, recall=0.25806451612903225, fmeasure=0.41025641025641024)
+ROUGE-2: Score(precision=1.0, recall=0.23333333333333334, fmeasure=0.37837837837837834)
+ROUGE-L: Score(precision=1.0, recall=0.25806451612903225, fmeasure=0.41025641025641024)
+----------------------------------------
+QA Pair 549:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 550:
+ROUGE-1: Score(precision=1.0, recall=0.3, fmeasure=0.4615384615384615)
+ROUGE-2: Score(precision=1.0, recall=0.28205128205128205, fmeasure=0.44000000000000006)
+ROUGE-L: Score(precision=1.0, recall=0.3, fmeasure=0.4615384615384615)
+----------------------------------------
+QA Pair 551:
+ROUGE-1: Score(precision=1.0, recall=0.48148148148148145, fmeasure=0.65)
+ROUGE-2: Score(precision=1.0, recall=0.46153846153846156, fmeasure=0.631578947368421)
+ROUGE-L: Score(precision=1.0, recall=0.48148148148148145, fmeasure=0.65)
+----------------------------------------
+QA Pair 552:
+ROUGE-1: Score(precision=1.0, recall=0.20833333333333334, fmeasure=0.3448275862068966)
+ROUGE-2: Score(precision=1.0, recall=0.17391304347826086, fmeasure=0.29629629629629634)
+ROUGE-L: Score(precision=1.0, recall=0.20833333333333334, fmeasure=0.3448275862068966)
+----------------------------------------
+QA Pair 553:
+ROUGE-1: Score(precision=1.0, recall=0.09689922480620156, fmeasure=0.17667844522968199)
+ROUGE-2: Score(precision=0.9583333333333334, recall=0.08949416342412451, fmeasure=0.16370106761565836)
+ROUGE-L: Score(precision=1.0, recall=0.09689922480620156, fmeasure=0.17667844522968199)
+----------------------------------------
+QA Pair 554:
+ROUGE-1: Score(precision=1.0, recall=0.3793103448275862, fmeasure=0.5499999999999999)
+ROUGE-2: Score(precision=1.0, recall=0.35714285714285715, fmeasure=0.5263157894736842)
+ROUGE-L: Score(precision=1.0, recall=0.3793103448275862, fmeasure=0.5499999999999999)
+----------------------------------------
+QA Pair 555:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 556:
+ROUGE-1: Score(precision=1.0, recall=0.175, fmeasure=0.2978723404255319)
+ROUGE-2: Score(precision=1.0, recall=0.15384615384615385, fmeasure=0.2666666666666667)
+ROUGE-L: Score(precision=1.0, recall=0.175, fmeasure=0.2978723404255319)
+----------------------------------------
+QA Pair 557:
+ROUGE-1: Score(precision=0.5, recall=0.16666666666666666, fmeasure=0.25)
+ROUGE-2: Score(precision=0.3333333333333333, recall=0.09090909090909091, fmeasure=0.14285714285714288)
+ROUGE-L: Score(precision=0.5, recall=0.16666666666666666, fmeasure=0.25)
+----------------------------------------
+QA Pair 558:
+ROUGE-1: Score(precision=0.95, recall=0.475, fmeasure=0.6333333333333334)
+ROUGE-2: Score(precision=0.8421052631578947, recall=0.41025641025641024, fmeasure=0.5517241379310346)
+ROUGE-L: Score(precision=0.95, recall=0.475, fmeasure=0.6333333333333334)
+----------------------------------------
+QA Pair 559:
+ROUGE-1: Score(precision=1.0, recall=0.2903225806451613, fmeasure=0.45000000000000007)
+ROUGE-2: Score(precision=0.9411764705882353, recall=0.26229508196721313, fmeasure=0.41025641025641024)
+ROUGE-L: Score(precision=1.0, recall=0.2903225806451613, fmeasure=0.45000000000000007)
+----------------------------------------
+QA Pair 560:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 561:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 562:
+ROUGE-1: Score(precision=1.0, recall=0.23214285714285715, fmeasure=0.37681159420289856)
+ROUGE-2: Score(precision=1.0, recall=0.21818181818181817, fmeasure=0.3582089552238806)
+ROUGE-L: Score(precision=1.0, recall=0.23214285714285715, fmeasure=0.37681159420289856)
+----------------------------------------
+QA Pair 563:
+ROUGE-1: Score(precision=0.9814814814814815, recall=0.6162790697674418, fmeasure=0.757142857142857)
+ROUGE-2: Score(precision=0.9622641509433962, recall=0.6, fmeasure=0.7391304347826086)
+ROUGE-L: Score(precision=0.9814814814814815, recall=0.6162790697674418, fmeasure=0.757142857142857)
+----------------------------------------
+QA Pair 564:
+ROUGE-1: Score(precision=0.6666666666666666, recall=0.14814814814814814, fmeasure=0.24242424242424243)
+ROUGE-2: Score(precision=0.2, recall=0.038461538461538464, fmeasure=0.06451612903225806)
+ROUGE-L: Score(precision=0.3333333333333333, recall=0.07407407407407407, fmeasure=0.12121212121212122)
+----------------------------------------
+QA Pair 565:
+ROUGE-1: Score(precision=1.0, recall=0.17543859649122806, fmeasure=0.29850746268656714)
+ROUGE-2: Score(precision=1.0, recall=0.16071428571428573, fmeasure=0.27692307692307694)
+ROUGE-L: Score(precision=1.0, recall=0.17543859649122806, fmeasure=0.29850746268656714)
+----------------------------------------
+QA Pair 566:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 567:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 568:
+ROUGE-1: Score(precision=1.0, recall=0.0625, fmeasure=0.11764705882352941)
+ROUGE-2: Score(precision=1.0, recall=0.05660377358490566, fmeasure=0.10714285714285715)
+ROUGE-L: Score(precision=1.0, recall=0.0625, fmeasure=0.11764705882352941)
+----------------------------------------
+QA Pair 569:
+ROUGE-1: Score(precision=1.0, recall=0.16216216216216217, fmeasure=0.27906976744186046)
+ROUGE-2: Score(precision=1.0, recall=0.1388888888888889, fmeasure=0.24390243902439027)
+ROUGE-L: Score(precision=1.0, recall=0.16216216216216217, fmeasure=0.27906976744186046)
+----------------------------------------
+QA Pair 570:
+ROUGE-1: Score(precision=1.0, recall=0.3333333333333333, fmeasure=0.5)
+ROUGE-2: Score(precision=1.0, recall=0.2727272727272727, fmeasure=0.42857142857142855)
+ROUGE-L: Score(precision=1.0, recall=0.3333333333333333, fmeasure=0.5)
+----------------------------------------
+QA Pair 571:
+ROUGE-1: Score(precision=1.0, recall=0.21311475409836064, fmeasure=0.3513513513513513)
+ROUGE-2: Score(precision=1.0, recall=0.2, fmeasure=0.33333333333333337)
+ROUGE-L: Score(precision=1.0, recall=0.21311475409836064, fmeasure=0.3513513513513513)
+----------------------------------------
+QA Pair 572:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 573:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 574:
+ROUGE-1: Score(precision=1.0, recall=0.1276595744680851, fmeasure=0.22641509433962262)
+ROUGE-2: Score(precision=1.0, recall=0.10869565217391304, fmeasure=0.19607843137254902)
+ROUGE-L: Score(precision=1.0, recall=0.1276595744680851, fmeasure=0.22641509433962262)
+----------------------------------------
+QA Pair 575:
+ROUGE-1: Score(precision=1.0, recall=0.48148148148148145, fmeasure=0.65)
+ROUGE-2: Score(precision=1.0, recall=0.46153846153846156, fmeasure=0.631578947368421)
+ROUGE-L: Score(precision=1.0, recall=0.48148148148148145, fmeasure=0.65)
+----------------------------------------
+QA Pair 576:
+ROUGE-1: Score(precision=1.0, recall=0.12195121951219512, fmeasure=0.21739130434782605)
+ROUGE-2: Score(precision=1.0, recall=0.1, fmeasure=0.18181818181818182)
+ROUGE-L: Score(precision=1.0, recall=0.12195121951219512, fmeasure=0.21739130434782605)
+----------------------------------------
+QA Pair 577:
+ROUGE-1: Score(precision=1.0, recall=0.006984866123399301, fmeasure=0.013872832369942197)
+ROUGE-2: Score(precision=1.0, recall=0.005827505827505828, fmeasure=0.011587485515643106)
+ROUGE-L: Score(precision=1.0, recall=0.006984866123399301, fmeasure=0.013872832369942197)
+----------------------------------------
+QA Pair 578:
+ROUGE-1: Score(precision=1.0, recall=0.02127659574468085, fmeasure=0.04166666666666667)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=0.02127659574468085, fmeasure=0.04166666666666667)
+----------------------------------------
+QA Pair 579:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 580:
+ROUGE-1: Score(precision=1.0, recall=0.42105263157894735, fmeasure=0.5925925925925926)
+ROUGE-2: Score(precision=1.0, recall=0.40540540540540543, fmeasure=0.5769230769230769)
+ROUGE-L: Score(precision=1.0, recall=0.42105263157894735, fmeasure=0.5925925925925926)
+----------------------------------------
+QA Pair 581:
+ROUGE-1: Score(precision=1.0, recall=0.3416666666666667, fmeasure=0.5093167701863354)
+ROUGE-2: Score(precision=0.975, recall=0.3277310924369748, fmeasure=0.490566037735849)
+ROUGE-L: Score(precision=1.0, recall=0.3416666666666667, fmeasure=0.5093167701863354)
+----------------------------------------
+QA Pair 582:
+ROUGE-1: Score(precision=1.0, recall=0.12359550561797752, fmeasure=0.21999999999999997)
+ROUGE-2: Score(precision=0.9, recall=0.10227272727272728, fmeasure=0.18367346938775514)
+ROUGE-L: Score(precision=0.8181818181818182, recall=0.10112359550561797, fmeasure=0.18)
+----------------------------------------
+QA Pair 583:
+ROUGE-1: Score(precision=1.0, recall=0.18181818181818182, fmeasure=0.3076923076923077)
+ROUGE-2: Score(precision=1.0, recall=0.16279069767441862, fmeasure=0.28)
+ROUGE-L: Score(precision=1.0, recall=0.18181818181818182, fmeasure=0.3076923076923077)
+----------------------------------------
+QA Pair 584:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 585:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 586:
+ROUGE-1: Score(precision=1.0, recall=0.2777777777777778, fmeasure=0.4347826086956522)
+ROUGE-2: Score(precision=1.0, recall=0.23529411764705882, fmeasure=0.38095238095238093)
+ROUGE-L: Score(precision=1.0, recall=0.2777777777777778, fmeasure=0.4347826086956522)
+----------------------------------------
+QA Pair 587:
+ROUGE-1: Score(precision=1.0, recall=0.03614457831325301, fmeasure=0.06976744186046512)
+ROUGE-2: Score(precision=1.0, recall=0.03225806451612903, fmeasure=0.0625)
+ROUGE-L: Score(precision=1.0, recall=0.03614457831325301, fmeasure=0.06976744186046512)
+----------------------------------------
+QA Pair 588:
+ROUGE-1: Score(precision=1.0, recall=0.2222222222222222, fmeasure=0.3636363636363636)
+ROUGE-2: Score(precision=1.0, recall=0.19230769230769232, fmeasure=0.32258064516129037)
+ROUGE-L: Score(precision=1.0, recall=0.2222222222222222, fmeasure=0.3636363636363636)
+----------------------------------------
+QA Pair 589:
+ROUGE-1: Score(precision=1.0, recall=0.09004739336492891, fmeasure=0.16521739130434784)
+ROUGE-2: Score(precision=0.9444444444444444, recall=0.08095238095238096, fmeasure=0.14912280701754388)
+ROUGE-L: Score(precision=1.0, recall=0.09004739336492891, fmeasure=0.16521739130434784)
+----------------------------------------
+QA Pair 590:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 591:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 592:
+ROUGE-1: Score(precision=1.0, recall=0.5526315789473685, fmeasure=0.711864406779661)
+ROUGE-2: Score(precision=1.0, recall=0.5405405405405406, fmeasure=0.7017543859649124)
+ROUGE-L: Score(precision=1.0, recall=0.5526315789473685, fmeasure=0.711864406779661)
+----------------------------------------
+QA Pair 593:
+ROUGE-1: Score(precision=1.0, recall=0.275, fmeasure=0.4313725490196079)
+ROUGE-2: Score(precision=1.0, recall=0.2564102564102564, fmeasure=0.4081632653061224)
+ROUGE-L: Score(precision=1.0, recall=0.275, fmeasure=0.4313725490196079)
+----------------------------------------
+QA Pair 594:
+ROUGE-1: Score(precision=1.0, recall=0.65, fmeasure=0.787878787878788)
+ROUGE-2: Score(precision=1.0, recall=0.631578947368421, fmeasure=0.7741935483870968)
+ROUGE-L: Score(precision=1.0, recall=0.65, fmeasure=0.787878787878788)
+----------------------------------------
+QA Pair 595:
+ROUGE-1: Score(precision=1.0, recall=0.5, fmeasure=0.6666666666666666)
+ROUGE-2: Score(precision=1.0, recall=0.4897959183673469, fmeasure=0.6575342465753424)
+ROUGE-L: Score(precision=1.0, recall=0.5, fmeasure=0.6666666666666666)
+----------------------------------------
+QA Pair 596:
+ROUGE-1: Score(precision=1.0, recall=0.008064516129032258, fmeasure=0.016)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=0.008064516129032258, fmeasure=0.016)
+----------------------------------------
+QA Pair 597:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 598:
+ROUGE-1: Score(precision=1.0, recall=0.3888888888888889, fmeasure=0.56)
+ROUGE-2: Score(precision=1.0, recall=0.37142857142857144, fmeasure=0.5416666666666666)
+ROUGE-L: Score(precision=1.0, recall=0.3888888888888889, fmeasure=0.56)
+----------------------------------------
+QA Pair 599:
+ROUGE-1: Score(precision=1.0, recall=0.041237113402061855, fmeasure=0.0792079207920792)
+ROUGE-2: Score(precision=0.5714285714285714, recall=0.02072538860103627, fmeasure=0.04)
+ROUGE-L: Score(precision=0.875, recall=0.03608247422680412, fmeasure=0.0693069306930693)
+----------------------------------------
+QA Pair 600:
+ROUGE-1: Score(precision=1.0, recall=0.5416666666666666, fmeasure=0.7027027027027027)
+ROUGE-2: Score(precision=1.0, recall=0.5217391304347826, fmeasure=0.6857142857142856)
+ROUGE-L: Score(precision=1.0, recall=0.5416666666666666, fmeasure=0.7027027027027027)
+----------------------------------------
+QA Pair 601:
+ROUGE-1: Score(precision=1.0, recall=0.41304347826086957, fmeasure=0.5846153846153846)
+ROUGE-2: Score(precision=1.0, recall=0.4, fmeasure=0.5714285714285715)
+ROUGE-L: Score(precision=1.0, recall=0.41304347826086957, fmeasure=0.5846153846153846)
+----------------------------------------
+QA Pair 602:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 603:
+ROUGE-1: Score(precision=1.0, recall=0.13043478260869565, fmeasure=0.23076923076923078)
+ROUGE-2: Score(precision=1.0, recall=0.1111111111111111, fmeasure=0.19999999999999998)
+ROUGE-L: Score(precision=1.0, recall=0.13043478260869565, fmeasure=0.23076923076923078)
+----------------------------------------
+QA Pair 604:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 605:
+ROUGE-1: Score(precision=1.0, recall=0.16363636363636364, fmeasure=0.28125)
+ROUGE-2: Score(precision=1.0, recall=0.14814814814814814, fmeasure=0.25806451612903225)
+ROUGE-L: Score(precision=1.0, recall=0.16363636363636364, fmeasure=0.28125)
+----------------------------------------
+QA Pair 606:
+ROUGE-1: Score(precision=1.0, recall=0.08860759493670886, fmeasure=0.1627906976744186)
+ROUGE-2: Score(precision=1.0, recall=0.07692307692307693, fmeasure=0.14285714285714288)
+ROUGE-L: Score(precision=1.0, recall=0.08860759493670886, fmeasure=0.1627906976744186)
+----------------------------------------
+QA Pair 607:
+ROUGE-1: Score(precision=1.0, recall=0.2972972972972973, fmeasure=0.4583333333333333)
+ROUGE-2: Score(precision=1.0, recall=0.2777777777777778, fmeasure=0.4347826086956522)
+ROUGE-L: Score(precision=1.0, recall=0.2972972972972973, fmeasure=0.4583333333333333)
+----------------------------------------
+QA Pair 608:
+ROUGE-1: Score(precision=1.0, recall=0.23076923076923078, fmeasure=0.375)
+ROUGE-2: Score(precision=1.0, recall=0.21568627450980393, fmeasure=0.3548387096774193)
+ROUGE-L: Score(precision=1.0, recall=0.23076923076923078, fmeasure=0.375)
+----------------------------------------
+QA Pair 609:
+ROUGE-1: Score(precision=1.0, recall=0.029411764705882353, fmeasure=0.05714285714285715)
+ROUGE-2: Score(precision=1.0, recall=0.014925373134328358, fmeasure=0.029411764705882353)
+ROUGE-L: Score(precision=1.0, recall=0.029411764705882353, fmeasure=0.05714285714285715)
+----------------------------------------
+QA Pair 610:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 611:
+ROUGE-1: Score(precision=1.0, recall=0.1702127659574468, fmeasure=0.2909090909090909)
+ROUGE-2: Score(precision=1.0, recall=0.15217391304347827, fmeasure=0.2641509433962264)
+ROUGE-L: Score(precision=1.0, recall=0.1702127659574468, fmeasure=0.2909090909090909)
+----------------------------------------
+QA Pair 612:
+ROUGE-1: Score(precision=1.0, recall=0.05357142857142857, fmeasure=0.10169491525423728)
+ROUGE-2: Score(precision=1.0, recall=0.05145413870246085, fmeasure=0.09787234042553193)
+ROUGE-L: Score(precision=1.0, recall=0.05357142857142857, fmeasure=0.10169491525423728)
+----------------------------------------
+QA Pair 613:
+ROUGE-1: Score(precision=1.0, recall=0.27450980392156865, fmeasure=0.43076923076923085)
+ROUGE-2: Score(precision=1.0, recall=0.26, fmeasure=0.41269841269841273)
+ROUGE-L: Score(precision=1.0, recall=0.27450980392156865, fmeasure=0.43076923076923085)
+----------------------------------------
+QA Pair 614:
+ROUGE-1: Score(precision=1.0, recall=0.475, fmeasure=0.6440677966101694)
+ROUGE-2: Score(precision=1.0, recall=0.46835443037974683, fmeasure=0.6379310344827586)
+ROUGE-L: Score(precision=1.0, recall=0.475, fmeasure=0.6440677966101694)
+----------------------------------------
+QA Pair 615:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 616:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 617:
+ROUGE-1: Score(precision=1.0, recall=0.4166666666666667, fmeasure=0.5882352941176471)
+ROUGE-2: Score(precision=1.0, recall=0.36363636363636365, fmeasure=0.5333333333333333)
+ROUGE-L: Score(precision=1.0, recall=0.4166666666666667, fmeasure=0.5882352941176471)
+----------------------------------------
+QA Pair 618:
+ROUGE-1: Score(precision=1.0, recall=0.25806451612903225, fmeasure=0.41025641025641024)
+ROUGE-2: Score(precision=1.0, recall=0.23333333333333334, fmeasure=0.37837837837837834)
+ROUGE-L: Score(precision=1.0, recall=0.25806451612903225, fmeasure=0.41025641025641024)
+----------------------------------------
+QA Pair 619:
+ROUGE-1: Score(precision=1.0, recall=0.6470588235294118, fmeasure=0.7857142857142858)
+ROUGE-2: Score(precision=1.0, recall=0.625, fmeasure=0.7692307692307693)
+ROUGE-L: Score(precision=1.0, recall=0.6470588235294118, fmeasure=0.7857142857142858)
+----------------------------------------
+QA Pair 620:
+ROUGE-1: Score(precision=0.8125, recall=0.10077519379844961, fmeasure=0.1793103448275862)
+ROUGE-2: Score(precision=0.6, recall=0.0703125, fmeasure=0.12587412587412586)
+ROUGE-L: Score(precision=0.8125, recall=0.10077519379844961, fmeasure=0.1793103448275862)
+----------------------------------------
+QA Pair 621:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 622:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 623:
+ROUGE-1: Score(precision=1.0, recall=0.35714285714285715, fmeasure=0.5263157894736842)
+ROUGE-2: Score(precision=1.0, recall=0.34146341463414637, fmeasure=0.5090909090909091)
+ROUGE-L: Score(precision=1.0, recall=0.35714285714285715, fmeasure=0.5263157894736842)
+----------------------------------------
+QA Pair 624:
+ROUGE-1: Score(precision=1.0, recall=0.15, fmeasure=0.2608695652173913)
+ROUGE-2: Score(precision=1.0, recall=0.10526315789473684, fmeasure=0.1904761904761905)
+ROUGE-L: Score(precision=1.0, recall=0.15, fmeasure=0.2608695652173913)
+----------------------------------------
+QA Pair 625:
+ROUGE-1: Score(precision=1.0, recall=0.4166666666666667, fmeasure=0.5882352941176471)
+ROUGE-2: Score(precision=1.0, recall=0.391304347826087, fmeasure=0.5625)
+ROUGE-L: Score(precision=1.0, recall=0.4166666666666667, fmeasure=0.5882352941176471)
+----------------------------------------
+QA Pair 626:
+ROUGE-1: Score(precision=0.75, recall=0.09230769230769231, fmeasure=0.16438356164383564)
+ROUGE-2: Score(precision=0.2857142857142857, recall=0.03125, fmeasure=0.056338028169014086)
+ROUGE-L: Score(precision=0.625, recall=0.07692307692307693, fmeasure=0.13698630136986303)
+----------------------------------------
+QA Pair 627:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 628:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 629:
+ROUGE-1: Score(precision=1.0, recall=0.30303030303030304, fmeasure=0.4651162790697675)
+ROUGE-2: Score(precision=1.0, recall=0.28125, fmeasure=0.43902439024390244)
+ROUGE-L: Score(precision=1.0, recall=0.30303030303030304, fmeasure=0.4651162790697675)
+----------------------------------------
+QA Pair 630:
+ROUGE-1: Score(precision=1.0, recall=0.3465346534653465, fmeasure=0.5147058823529412)
+ROUGE-2: Score(precision=1.0, recall=0.34, fmeasure=0.5074626865671642)
+ROUGE-L: Score(precision=1.0, recall=0.3465346534653465, fmeasure=0.5147058823529412)
+----------------------------------------
+QA Pair 631:
+ROUGE-1: Score(precision=1.0, recall=0.22727272727272727, fmeasure=0.37037037037037035)
+ROUGE-2: Score(precision=1.0, recall=0.20930232558139536, fmeasure=0.3461538461538462)
+ROUGE-L: Score(precision=1.0, recall=0.22727272727272727, fmeasure=0.37037037037037035)
+----------------------------------------
+QA Pair 632:
+ROUGE-1: Score(precision=1.0, recall=0.059748427672955975, fmeasure=0.11275964391691394)
+ROUGE-2: Score(precision=1.0, recall=0.056782334384858045, fmeasure=0.10746268656716416)
+ROUGE-L: Score(precision=1.0, recall=0.059748427672955975, fmeasure=0.11275964391691394)
+----------------------------------------
+QA Pair 633:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 634:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 635:
+ROUGE-1: Score(precision=1.0, recall=0.12781954887218044, fmeasure=0.22666666666666666)
+ROUGE-2: Score(precision=1.0, recall=0.12121212121212122, fmeasure=0.21621621621621626)
+ROUGE-L: Score(precision=1.0, recall=0.12781954887218044, fmeasure=0.22666666666666666)
+----------------------------------------
+QA Pair 636:
+ROUGE-1: Score(precision=1.0, recall=0.06779661016949153, fmeasure=0.12698412698412698)
+ROUGE-2: Score(precision=1.0, recall=0.05172413793103448, fmeasure=0.09836065573770492)
+ROUGE-L: Score(precision=1.0, recall=0.06779661016949153, fmeasure=0.12698412698412698)
+----------------------------------------
+QA Pair 637:
+ROUGE-1: Score(precision=1.0, recall=0.075, fmeasure=0.13953488372093023)
+ROUGE-2: Score(precision=1.0, recall=0.05128205128205128, fmeasure=0.09756097560975609)
+ROUGE-L: Score(precision=1.0, recall=0.075, fmeasure=0.13953488372093023)
+----------------------------------------
+QA Pair 638:
+ROUGE-1: Score(precision=0.9166666666666666, recall=0.058823529411764705, fmeasure=0.11055276381909547)
+ROUGE-2: Score(precision=0.9090909090909091, recall=0.053763440860215055, fmeasure=0.10152284263959391)
+ROUGE-L: Score(precision=0.9166666666666666, recall=0.058823529411764705, fmeasure=0.11055276381909547)
+----------------------------------------
+QA Pair 639:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 640:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 641:
+ROUGE-1: Score(precision=1.0, recall=0.15384615384615385, fmeasure=0.2666666666666667)
+ROUGE-2: Score(precision=1.0, recall=0.13157894736842105, fmeasure=0.23255813953488372)
+ROUGE-L: Score(precision=1.0, recall=0.15384615384615385, fmeasure=0.2666666666666667)
+----------------------------------------
+QA Pair 642:
+ROUGE-1: Score(precision=1.0, recall=0.5238095238095238, fmeasure=0.6875000000000001)
+ROUGE-2: Score(precision=1.0, recall=0.5, fmeasure=0.6666666666666666)
+ROUGE-L: Score(precision=1.0, recall=0.5238095238095238, fmeasure=0.6875000000000001)
+----------------------------------------
+QA Pair 643:
+ROUGE-1: Score(precision=1.0, recall=0.45454545454545453, fmeasure=0.625)
+ROUGE-2: Score(precision=0.8571428571428571, recall=0.375, fmeasure=0.5217391304347825)
+ROUGE-L: Score(precision=1.0, recall=0.45454545454545453, fmeasure=0.625)
+----------------------------------------
+QA Pair 644:
+ROUGE-1: Score(precision=1.0, recall=0.026490066225165563, fmeasure=0.05161290322580646)
+ROUGE-2: Score(precision=0.8571428571428571, recall=0.019933554817275746, fmeasure=0.03896103896103895)
+ROUGE-L: Score(precision=1.0, recall=0.026490066225165563, fmeasure=0.05161290322580646)
+----------------------------------------
+QA Pair 645:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 646:
+ROUGE-1: Score(precision=1.0, recall=0.16363636363636364, fmeasure=0.28125)
+ROUGE-2: Score(precision=1.0, recall=0.14814814814814814, fmeasure=0.25806451612903225)
+ROUGE-L: Score(precision=1.0, recall=0.16363636363636364, fmeasure=0.28125)
+----------------------------------------
+QA Pair 647:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 648:
+ROUGE-1: Score(precision=1.0, recall=0.2, fmeasure=0.33333333333333337)
+ROUGE-2: Score(precision=1.0, recall=0.1724137931034483, fmeasure=0.29411764705882354)
+ROUGE-L: Score(precision=1.0, recall=0.2, fmeasure=0.33333333333333337)
+----------------------------------------
+QA Pair 649:
+ROUGE-1: Score(precision=0.5555555555555556, recall=0.15151515151515152, fmeasure=0.2380952380952381)
+ROUGE-2: Score(precision=0.5, recall=0.125, fmeasure=0.2)
+ROUGE-L: Score(precision=0.5555555555555556, recall=0.15151515151515152, fmeasure=0.2380952380952381)
+----------------------------------------
+QA Pair 650:
+ROUGE-1: Score(precision=1.0, recall=0.3611111111111111, fmeasure=0.5306122448979591)
+ROUGE-2: Score(precision=1.0, recall=0.34285714285714286, fmeasure=0.5106382978723404)
+ROUGE-L: Score(precision=1.0, recall=0.3611111111111111, fmeasure=0.5306122448979591)
+----------------------------------------
+QA Pair 651:
+ROUGE-1: Score(precision=0.6666666666666666, recall=0.0049382716049382715, fmeasure=0.00980392156862745)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0.6666666666666666, recall=0.0049382716049382715, fmeasure=0.00980392156862745)
+----------------------------------------
+QA Pair 652:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 653:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 654:
+ROUGE-1: Score(precision=1.0, recall=0.2857142857142857, fmeasure=0.4444444444444445)
+ROUGE-2: Score(precision=1.0, recall=0.23076923076923078, fmeasure=0.375)
+ROUGE-L: Score(precision=1.0, recall=0.2857142857142857, fmeasure=0.4444444444444445)
+----------------------------------------
+QA Pair 655:
+ROUGE-1: Score(precision=0.8695652173913043, recall=0.47619047619047616, fmeasure=0.6153846153846153)
+ROUGE-2: Score(precision=0.7727272727272727, recall=0.4146341463414634, fmeasure=0.5396825396825397)
+ROUGE-L: Score(precision=0.8695652173913043, recall=0.47619047619047616, fmeasure=0.6153846153846153)
+----------------------------------------
+QA Pair 656:
+ROUGE-1: Score(precision=1.0, recall=0.5, fmeasure=0.6666666666666666)
+ROUGE-2: Score(precision=1.0, recall=0.4782608695652174, fmeasure=0.6470588235294118)
+ROUGE-L: Score(precision=1.0, recall=0.5, fmeasure=0.6666666666666666)
+----------------------------------------
+QA Pair 657:
+ROUGE-1: Score(precision=0.625, recall=0.3, fmeasure=0.4054054054054054)
+ROUGE-2: Score(precision=0.13043478260869565, recall=0.061224489795918366, fmeasure=0.08333333333333333)
+ROUGE-L: Score(precision=0.375, recall=0.18, fmeasure=0.24324324324324328)
+----------------------------------------
+QA Pair 658:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 659:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 660:
+ROUGE-1: Score(precision=1.0, recall=0.19230769230769232, fmeasure=0.32258064516129037)
+ROUGE-2: Score(precision=1.0, recall=0.16, fmeasure=0.2758620689655173)
+ROUGE-L: Score(precision=1.0, recall=0.19230769230769232, fmeasure=0.32258064516129037)
+----------------------------------------
+QA Pair 661:
+ROUGE-1: Score(precision=1.0, recall=0.022222222222222223, fmeasure=0.04347826086956522)
+ROUGE-2: Score(precision=1.0, recall=0.011235955056179775, fmeasure=0.02222222222222222)
+ROUGE-L: Score(precision=1.0, recall=0.022222222222222223, fmeasure=0.04347826086956522)
+----------------------------------------
+QA Pair 662:
+ROUGE-1: Score(precision=1.0, recall=0.4, fmeasure=0.5714285714285715)
+ROUGE-2: Score(precision=1.0, recall=0.3888888888888889, fmeasure=0.56)
+ROUGE-L: Score(precision=1.0, recall=0.4, fmeasure=0.5714285714285715)
+----------------------------------------
+QA Pair 663:
+ROUGE-1: Score(precision=1.0, recall=0.0847457627118644, fmeasure=0.15625)
+ROUGE-2: Score(precision=1.0, recall=0.06896551724137931, fmeasure=0.12903225806451613)
+ROUGE-L: Score(precision=1.0, recall=0.0847457627118644, fmeasure=0.15625)
+----------------------------------------
+QA Pair 664:
+ROUGE-1: Score(precision=1.0, recall=0.05405405405405406, fmeasure=0.10256410256410257)
+ROUGE-2: Score(precision=1.0, recall=0.027777777777777776, fmeasure=0.05405405405405406)
+ROUGE-L: Score(precision=1.0, recall=0.05405405405405406, fmeasure=0.10256410256410257)
+----------------------------------------
+QA Pair 665:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+QA Pair 666:
+ROUGE-1: Score(precision=1.0, recall=0.5333333333333333, fmeasure=0.6956521739130436)
+ROUGE-2: Score(precision=1.0, recall=0.5172413793103449, fmeasure=0.6818181818181819)
+ROUGE-L: Score(precision=1.0, recall=0.5333333333333333, fmeasure=0.6956521739130436)
+----------------------------------------
+QA Pair 667:
+ROUGE-1: Score(precision=1.0, recall=0.2857142857142857, fmeasure=0.4444444444444445)
+ROUGE-2: Score(precision=1.0, recall=0.25925925925925924, fmeasure=0.4117647058823529)
+ROUGE-L: Score(precision=1.0, recall=0.2857142857142857, fmeasure=0.4444444444444445)
+----------------------------------------
+QA Pair 668:
+ROUGE-1: Score(precision=1.0, recall=0.2857142857142857, fmeasure=0.4444444444444445)
+ROUGE-2: Score(precision=1.0, recall=0.2682926829268293, fmeasure=0.4230769230769231)
+ROUGE-L: Score(precision=1.0, recall=0.2857142857142857, fmeasure=0.4444444444444445)
+----------------------------------------
+QA Pair 669:
+ROUGE-1: Score(precision=0.7058823529411765, recall=0.27906976744186046, fmeasure=0.4)
+ROUGE-2: Score(precision=0.5, recall=0.19047619047619047, fmeasure=0.27586206896551724)
+ROUGE-L: Score(precision=0.47058823529411764, recall=0.18604651162790697, fmeasure=0.26666666666666666)
+----------------------------------------
+QA Pair 670:
+ROUGE-1: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=1.0, recall=1.0, fmeasure=1.0)
+----------------------------------------
+QA Pair 671:
+ROUGE-1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+ROUGE-L: Score(precision=0, recall=0, fmeasure=0)
+----------------------------------------
+
+📊 **Trung bình ROUGE Scores:**
+✅ ROUGE-1: 0.3730
+✅ ROUGE-2: 0.2439
+✅ ROUGE-L: 0.3683

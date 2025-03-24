@@ -1,0 +1,3 @@
+python -m venv .venv_qa
+.venv_qa\Scripts\activate
+pip install langchain openai
